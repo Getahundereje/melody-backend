@@ -1,0 +1,17 @@
+```
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+/dist
+/tmp
+/out
+.env
+
+# OS
+.DS_Store
+```
