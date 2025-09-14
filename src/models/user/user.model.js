@@ -3,14 +3,7 @@ import catchModelAsyncError from "../../utils/catchModelAsyncError.js";
 import handleMongooseError from "../../utils/handleMongooseError.js";
 
 const createUser = catchModelAsyncError(async (userData) => {
-  const user = await User.create(userData);
-
-  return {
-    ...user.toObject(),
-    id: user._id,
-    _id: undefined,
-    password: undefined,
-  };
+  return await User.create(userData);
 }, handleMongooseError);
 
 const checkEmail = catchModelAsyncError(async (email) => {

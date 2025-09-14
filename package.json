@@ -6,19 +6,26 @@
   "main": "src/server.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon src/server.js",
+    "dev": "nodemon --ignore src/data/ src/server.js",
     "start": "node src/server.js"
   },
   "author": "Google LLC",
   "license": "Apache-2.0",
   "dependencies": {
+    "@distube/ytdl-core": "^4.16.12",
     "axios": "^1.11.0",
     "bcrypt": "^6.0.0",
+    "cheerio": "^1.1.2",
+    "cors": "^2.8.5",
     "dotenv": "^17.2.1",
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.17.1",
-    "morgan": "^1.10.1"
+    "morgan": "^1.10.1",
+    "node-cron": "^4.2.1",
+    "nodemailer": "^7.0.5",
+    "play-dl": "^1.9.7",
+    "youtubei.js": "^15.0.1"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"

@@ -22,6 +22,14 @@ const UserSchema = new mongoose.Schema(
   { timestamp: true }
 );
 
+UserSchema.virtual('id').get(function() {
+  return this._id.toHexString();
+});
+
+UserSchema.set('toJSON', {
+  virtuals: true,
+});
+
 UserSchema.pre("save", async function (next) {
   if (!this.isModified("password")) return;
 

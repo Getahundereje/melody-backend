@@ -1,0 +1,391 @@
+{
+  "issueDate": "Week of September 13, 2025",
+  "songs": [
+    {
+      "name": "Golden",
+      "duration": 194607,
+      "artists": [
+        {
+          "id": "2yNNYQBChuox9A5Ka93BIn",
+          "name": "HUNTR/X"
+        },
+        {
+          "id": "0RMJOzHDhAKY1o2j0W0vxY",
+          "name": "EJAE"
+        },
+        {
+          "id": "0Wwji82sLA0Hcvtuak3omb",
+          "name": "AUDREY NUNA"
+        },
+        {
+          "id": "6U1dV7aL68N7Gb0Naq34V5",
+          "name": "REI AMI"
+        },
+        {
+          "id": "7mW7Tv7NvywKKXqafZo0Lc",
+          "name": "KPop Demon Hunters Cast"
+        }
+      ],
+      "album": {
+        "title": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "id": "14JkAa6IiFaOh5s0nMyMU9",
+        "artists": [
+          {
+            "id": "7mW7Tv7NvywKKXqafZo0Lc",
+            "name": "KPop Demon Hunters Cast"
+          },
+          {
+            "id": "2yNNYQBChuox9A5Ka93BIn",
+            "name": "HUNTR/X"
+          },
+          {
+            "id": "0BJ2EjOqcfgFvlZXNKrNbE",
+            "name": "Saja Boys"
+          }
+        ],
+        "release_date": "2025-06-20",
+        "thumbnail": {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4"
+        }
+      },
+      "id": "1CPZ5BxNNd0n0nF4Orb9JS"
+    },
+    {
+      "name": "Ordinary",
+      "duration": 186964,
+      "artists": [
+        {
+          "id": "0fTSzq9jAh4c36UVb4V7CB",
+          "name": "Alex Warren"
+        }
+      ],
+      "album": {
+        "title": "You'll Be Alright, Kid (Chapter 1)",
+        "id": "1eCGY9WJpYgtaFh1Lk2KNo",
+        "artists": [
+          {
+            "id": "0fTSzq9jAh4c36UVb4V7CB",
+            "name": "Alex Warren"
+          }
+        ],
+        "release_date": "2024-09-26",
+        "thumbnail": {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27342fe69c0e7e5c92f01ece8ce"
+        }
+      },
+      "id": "2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "name": "Tears",
+      "duration": 160183,
+      "artists": [
+        {
+          "id": "74KM79TiuVKeVCqs8QtB0B",
+          "name": "Sabrina Carpenter"
+        }
+      ],
+      "album": {
+        "title": "Man’s Best Friend",
+        "id": "1aqg30bNvLSWgShZgX4oop",
+        "artists": [
+          {
+            "id": "74KM79TiuVKeVCqs8QtB0B",
+            "name": "Sabrina Carpenter"
+          }
+        ],
+        "release_date": "2025-08-29",
+        "thumbnail": {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27345e9957f1f728941041d3210"
+        }
+      },
+      "id": "42VUCXerQ5qTr4Qp6PhKo4"
+    },
+    {
+      "name": "Manchild",
+      "duration": 213645,
+      "artists": [
+        {
+          "id": "74KM79TiuVKeVCqs8QtB0B",
+          "name": "Sabrina Carpenter"
+        }
+      ],
+      "album": {
+        "title": "Manchild",
+        "id": "3wRHV5fOeUcM5hvYzWZsic",
+        "artists": [
+          {
+            "id": "74KM79TiuVKeVCqs8QtB0B",
+            "name": "Sabrina Carpenter"
+          }
+        ],
+        "release_date": "2025-06-05",
+        "thumbnail": {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273062c6573009fdebd43de443b"
+        }
+      },
+      "id": "42UBPzRMh5yyz0EDPr6fr1"
+    },
+    {
+      "name": "Your Idol",
+      "duration": 191537,
+      "artists": [
+        {
+          "id": "0BJ2EjOqcfgFvlZXNKrNbE",
+          "name": "Saja Boys"
+        },
+        {
+          "id": "7JBaynR7JFeniONqbnn1U4",
+          "name": "Andrew Choi"
+        },
+        {
+          "id": "5bXNU0MAF2HSqyFPhYtscH",
+          "name": "Neckwav"
+        },
+        {
+          "id": "11pXvO7wYuzRWYONDOBd33",
+          "name": "Danny Chung"
+        },
+        {
+          "id": "2RYonYiVhhzBz82UFXOvEN",
+          "name": "KEVIN WOO"
+        },
+        {
+          "id": "1eDupbD9kIx8UaZlzcBG5r",
+          "name": "samUIL Lee"
+        },
+        {
+          "id": "7mW7Tv7NvywKKXqafZo0Lc",
+          "name": "KPop Demon Hunters Cast"
+        }
+      ],
+      "album": {
+        "title": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "id": "14JkAa6IiFaOh5s0nMyMU9",
+        "artists": [
+          {
+            "id": "7mW7Tv7NvywKKXqafZo0Lc",
+            "name": "KPop Demon Hunters Cast"
+          },
+          {
+            "id": "2yNNYQBChuox9A5Ka93BIn",
+            "name": "HUNTR/X"
+          },
+          {
+            "id": "0BJ2EjOqcfgFvlZXNKrNbE",
+            "name": "Saja Boys"
+          }
+        ],
+        "release_date": "2025-06-20",
+        "thumbnail": {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4"
+        }
+      },
+      "id": "1I37Zz2g3hk9eWxaNkj031"
+    },
+    {
+      "name": "Soda Pop",
+      "duration": 150686,
+      "artists": [
+        {
+          "id": "0BJ2EjOqcfgFvlZXNKrNbE",
+          "name": "Saja Boys"
+        },
+        {
+          "id": "7JBaynR7JFeniONqbnn1U4",
+          "name": "Andrew Choi"
+        },
+        {
+          "id": "5bXNU0MAF2HSqyFPhYtscH",
+          "name": "Neckwav"
+        },
+        {
+          "id": "11pXvO7wYuzRWYONDOBd33",
+          "name": "Danny Chung"
+        },
+        {
+          "id": "2RYonYiVhhzBz82UFXOvEN",
+          "name": "KEVIN WOO"
+        },
+        {
+          "id": "1eDupbD9kIx8UaZlzcBG5r",
+          "name": "samUIL Lee"
+        },
+        {
+          "id": "7mW7Tv7NvywKKXqafZo0Lc",
+          "name": "KPop Demon Hunters Cast"
+        }
+      ],
+      "album": {
+        "title": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "id": "14JkAa6IiFaOh5s0nMyMU9",
+        "artists": [
+          {
+            "id": "7mW7Tv7NvywKKXqafZo0Lc",
+            "name": "KPop Demon Hunters Cast"
+          },
+          {
+            "id": "2yNNYQBChuox9A5Ka93BIn",
+            "name": "HUNTR/X"
+          },
+          {
+            "id": "0BJ2EjOqcfgFvlZXNKrNbE",
+            "name": "Saja Boys"
+          }
+        ],
+        "release_date": "2025-06-20",
+        "thumbnail": {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4"
+        }
+      },
+      "id": "02sy7FAs8dkDNYsHp4Ul3f"
+    },
+    {
+      "name": "What I Want (feat. Tate McRae)",
+      "duration": 184517,
+      "artists": [
+        {
+          "id": "4oUHIQIBe0LHzYfvXNW4QM",
+          "name": "Morgan Wallen"
+        },
+        {
+          "id": "45dkTj5sMRSjrmBSBeiHym",
+          "name": "Tate McRae"
+        }
+      ],
+      "album": {
+        "title": "I’m The Problem",
+        "id": "1o844O5I0qVpZKiePtIGcF",
+        "artists": [
+          {
+            "id": "4oUHIQIBe0LHzYfvXNW4QM",
+            "name": "Morgan Wallen"
+          }
+        ],
+        "release_date": "2025-05-16",
+        "thumbnail": {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a70a80359930eea5bfdf11f5"
+        }
+      },
+      "id": "48NthgcgfoRrWT8LtgW28A"
+    },
+    {
+      "name": "Love Me Not",
+      "duration": 213460,
+      "artists": [
+        {
+          "id": "5RTLRtXjbXI2lSXc6jxlAz",
+          "name": "Ravyn Lenae"
+        }
+      ],
+      "album": {
+        "title": "Ya mero se acaba el recreo",
+        "id": "5SbrGLNGF1lMKLNNW3IGe6",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "release_date": "2025-09-09",
+        "thumbnail": {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27385629501a8811ccf37daafc1"
+        }
+      },
+      "id": "2L9NRWzJKHlVGbQ6yTevrZ"
+    },
+    {
+      "name": "How It’s Done",
+      "duration": 176059,
+      "artists": [
+        {
+          "id": "2yNNYQBChuox9A5Ka93BIn",
+          "name": "HUNTR/X"
+        },
+        {
+          "id": "0RMJOzHDhAKY1o2j0W0vxY",
+          "name": "EJAE"
+        },
+        {
+          "id": "0Wwji82sLA0Hcvtuak3omb",
+          "name": "AUDREY NUNA"
+        },
+        {
+          "id": "6U1dV7aL68N7Gb0Naq34V5",
+          "name": "REI AMI"
+        },
+        {
+          "id": "7mW7Tv7NvywKKXqafZo0Lc",
+          "name": "KPop Demon Hunters Cast"
+        }
+      ],
+      "album": {
+        "title": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "id": "14JkAa6IiFaOh5s0nMyMU9",
+        "artists": [
+          {
+            "id": "7mW7Tv7NvywKKXqafZo0Lc",
+            "name": "KPop Demon Hunters Cast"
+          },
+          {
+            "id": "2yNNYQBChuox9A5Ka93BIn",
+            "name": "HUNTR/X"
+          },
+          {
+            "id": "0BJ2EjOqcfgFvlZXNKrNbE",
+            "name": "Saja Boys"
+          }
+        ],
+        "release_date": "2025-06-20",
+        "thumbnail": {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4"
+        }
+      },
+      "id": "3RXUgPNIbUgFxsDWuBQEt6"
+    },
+    {
+      "name": "Lose Control",
+      "duration": 210688,
+      "artists": [
+        {
+          "id": "33qOK5uJ8AR2xuQQAhHump",
+          "name": "Teddy Swims"
+        }
+      ],
+      "album": {
+        "title": "I've Tried Everything But Therapy (Part 1)",
+        "id": "7nacKlk586eLRBSIsrk9DB",
+        "artists": [
+          {
+            "id": "33qOK5uJ8AR2xuQQAhHump",
+            "name": "Teddy Swims"
+          }
+        ],
+        "release_date": "2023-09-15",
+        "thumbnail": {
+          "height": 640,
+          "width": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace"
+        }
+      },
+      "id": "17phhZDn6oGtzMe56NuWvj"
+    }
+  ]
+}

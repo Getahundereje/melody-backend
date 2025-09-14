@@ -3,18 +3,7 @@ import jwt from "jsonwebtoken";
 import { checkEmail, createUser } from "../models/user/user.model.js";
 import catchAsyncError from "../utils/catchAsyncError.js";
 import AppError from "../utils/appError.js";
-
-function createCookieWithJwtToken(payload, res) {
-  const jwtToken = jwt.sign({ payload }, process.env.JWT_SECRET_KEY, {
-    expiresIn: "1d",
-  });
-
-  res.cookie("user", jwtToken, {
-    maxAge: 1000 * 60 * 10,
-    signed: false,
-    httpOnly: true,
-  });
-}
+import createJwtTokens from "../utils/createJwtTokens.js";
 
 const signUp = catchAsyncError(async (req, res, next) => {
   const { email, fullName, password, confirmPassword } = req.body;
@@ -27,11 +16,21 @@ const signUp = catchAsyncError(async (req, res, next) => {
 
   const user = await createUser({ email, fullName, password });
 
-  createCookieWithJwtToken(user.id, res);
+  const { accessToken, refreshToken } = createJwtTokens({
+    id: user.id,
+    email: user.email,
+  });
 
-  return res.status(200).json({
-    status: "succuss",
+  res.cookie("refreshToken", refreshToken, {
+    httpOnly: true,
+    secure: process.env.NODE_ENV === "production",
+    sameSite: "strict",
+  });
+
+  return res.status(201).json({
+    status: "success",
     data: {
+      accessToken,
       user,
     },
   });
@@ -41,18 +40,28 @@ const signIn = catchAsyncError(async (req, res, next) => {
   const { email, password } = req.body;
 
   if (!email || !password)
-    next(new AppError("Please provide all required fields."));
+    return next(new AppError("Please provide all required fields.", 401));
 
   const user = await checkEmail(email);
 
   if (user && (await user.comparePassword(password))) {
-    createCookieWithJwtToken(user.id, res);
-
     user.password = undefined;
+
+    const { accessToken, refreshToken } = createJwtTokens({
+      id: user.id,
+      email: user.email,
+    });
+
+    res.cookie("refreshToken", refreshToken, {
+      httpOnly: true,
+      secure: process.env.NODE_ENV === "production",
+      sameSite: "strict",
+    });
 
     return res.status(200).json({
       status: "success",
       data: {
+        accessToken,
         user,
       },
     });
