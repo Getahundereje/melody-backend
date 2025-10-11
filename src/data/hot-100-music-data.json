@@ -1,0 +1,3485 @@
+{
+  "issueDate": "Week of October 11, 2025",
+  "songs": [
+    {
+      "id": "5Cp75TUMrHF6c8xbhdligS",
+      "name": "Golden",
+      "duration": 194607,
+      "artists": [
+        {
+          "id": "2yNNYQBChuox9A5Ka93BIn",
+          "name": "HUNTR/X",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "0RMJOzHDhAKY1o2j0W0vxY",
+          "name": "EJAE",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "0Wwji82sLA0Hcvtuak3omb",
+          "name": "AUDREY NUNA",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "6U1dV7aL68N7Gb0Naq34V5",
+          "name": "REI AMI",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "7mW7Tv7NvywKKXqafZo0Lc",
+          "name": "KPop Demon Hunters Cast",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Golden (from the Netflix film KPop Demon Hunters)",
+        "id": "2q4uMcogIfSvbjZevQTIDL",
+        "artists": [
+          {
+            "id": "7mW7Tv7NvywKKXqafZo0Lc",
+            "name": "KPop Demon Hunters Cast",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "2yNNYQBChuox9A5Ka93BIn",
+            "name": "HUNTR/X",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-06-19",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273333392a83a4514ae635ed982",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273333392a83a4514ae635ed982",
+      "type": "track"
+    },
+    {
+      "id": "2Bzh2ghhyaX64yyeMIfend",
+      "name": "Beman",
+      "duration": 214200,
+      "artists": [
+        {
+          "id": "2noU35ow21LQjXl4msANBG",
+          "name": "Yohana",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Ereft",
+        "id": "6IsPo1geoBPXXobOO75dTd",
+        "artists": [
+          {
+            "id": "2noU35ow21LQjXl4msANBG",
+            "name": "Yohana",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2021-10-08",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27367293dab3ee5cfefce3473f2",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27367293dab3ee5cfefce3473f2",
+      "type": "track"
+    },
+    {
+      "id": "04a44cx2PJthIbN2aLMXhl",
+      "name": "TIT FOR TAT",
+      "duration": 175956,
+      "artists": [
+        {
+          "id": "45dkTj5sMRSjrmBSBeiHym",
+          "name": "Tate McRae",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "TIT FOR TAT",
+        "id": "1ks1k7zln4TyBjn1CF3vCz",
+        "artists": [
+          {
+            "id": "45dkTj5sMRSjrmBSBeiHym",
+            "name": "Tate McRae",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-09-26",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273a8c77f8a83844a458d2692e3",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273a8c77f8a83844a458d2692e3",
+      "type": "track"
+    },
+    {
+      "id": "48NthgcgfoRrWT8LtgW28A",
+      "name": "What I Want (feat. Tate McRae)",
+      "duration": 184517,
+      "artists": [
+        {
+          "id": "4oUHIQIBe0LHzYfvXNW4QM",
+          "name": "Morgan Wallen",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "45dkTj5sMRSjrmBSBeiHym",
+          "name": "Tate McRae",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "I’m The Problem",
+        "id": "1o844O5I0qVpZKiePtIGcF",
+        "artists": [
+          {
+            "id": "4oUHIQIBe0LHzYfvXNW4QM",
+            "name": "Morgan Wallen",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-05-16",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273a70a80359930eea5bfdf11f5",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273a70a80359930eea5bfdf11f5",
+      "type": "track"
+    },
+    {
+      "id": "5BZsQlgw21vDOAjoqkNgKb",
+      "name": "DAISIES",
+      "duration": 176453,
+      "artists": [
+        {
+          "id": "1uNFoZAHBGtllmzznpCI3s",
+          "name": "Justin Bieber",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "SWAG",
+        "id": "5vD5M5VW62LL78Ko8x0CVZ",
+        "artists": [
+          {
+            "id": "1uNFoZAHBGtllmzznpCI3s",
+            "name": "Justin Bieber",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-07-11",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273d65c4773bc5061fd27facc5b",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273d65c4773bc5061fd27facc5b",
+      "type": "track"
+    },
+    {
+      "id": "17phhZDn6oGtzMe56NuWvj",
+      "name": "Lose Control",
+      "duration": 210688,
+      "artists": [
+        {
+          "id": "33qOK5uJ8AR2xuQQAhHump",
+          "name": "Teddy Swims",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "id": "7nacKlk586eLRBSIsrk9DB",
+        "artists": [
+          {
+            "id": "33qOK5uJ8AR2xuQQAhHump",
+            "name": "Teddy Swims",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2023-09-15",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace",
+      "type": "track"
+    },
+    {
+      "id": "02sy7FAs8dkDNYsHp4Ul3f",
+      "name": "Soda Pop",
+      "duration": 150686,
+      "artists": [
+        {
+          "id": "0BJ2EjOqcfgFvlZXNKrNbE",
+          "name": "Saja Boys",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "7JBaynR7JFeniONqbnn1U4",
+          "name": "Andrew Choi",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "5bXNU0MAF2HSqyFPhYtscH",
+          "name": "Neckwav",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "11pXvO7wYuzRWYONDOBd33",
+          "name": "Danny Chung",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "2RYonYiVhhzBz82UFXOvEN",
+          "name": "KEVIN WOO",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "1eDupbD9kIx8UaZlzcBG5r",
+          "name": "samUIL Lee",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "7mW7Tv7NvywKKXqafZo0Lc",
+          "name": "KPop Demon Hunters Cast",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "id": "14JkAa6IiFaOh5s0nMyMU9",
+        "artists": [
+          {
+            "id": "7mW7Tv7NvywKKXqafZo0Lc",
+            "name": "KPop Demon Hunters Cast",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "2yNNYQBChuox9A5Ka93BIn",
+            "name": "HUNTR/X",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "0BJ2EjOqcfgFvlZXNKrNbE",
+            "name": "Saja Boys",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-06-20",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+      "type": "track"
+    },
+    {
+      "id": "4gfrYDtaRmp6HPvN80V2ob",
+      "name": "I Got Better",
+      "duration": 204963,
+      "artists": [
+        {
+          "id": "4oUHIQIBe0LHzYfvXNW4QM",
+          "name": "Morgan Wallen",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "I’m The Problem",
+        "id": "5IZ8sY5FjtL9hloXpv0XbD",
+        "artists": [
+          {
+            "id": "4oUHIQIBe0LHzYfvXNW4QM",
+            "name": "Morgan Wallen",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-05-16",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27335ea219ce47813b5e2dc3745",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27335ea219ce47813b5e2dc3745",
+      "type": "track"
+    },
+    {
+      "id": "1UNEuG9DYOWiikf00ayr52",
+      "name": "Love Me Not",
+      "duration": 213466,
+      "artists": [
+        {
+          "id": "5RTLRtXjbXI2lSXc6jxlAz",
+          "name": "Ravyn Lenae",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Love Me Not / Love Is Blind",
+        "id": "6YHaDmwYvX8vREotCZTV6g",
+        "artists": [
+          {
+            "id": "5RTLRtXjbXI2lSXc6jxlAz",
+            "name": "Ravyn Lenae",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2024-05-03",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2735511ceaa955a2bfd9ae90c21",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2735511ceaa955a2bfd9ae90c21",
+      "type": "track"
+    },
+    {
+      "id": "5iupE5tK6WVGkK2wXN7DlC",
+      "name": "Your Idol",
+      "duration": 191537,
+      "artists": [
+        {
+          "id": "0BJ2EjOqcfgFvlZXNKrNbE",
+          "name": "Saja Boys",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "7JBaynR7JFeniONqbnn1U4",
+          "name": "Andrew Choi",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "5bXNU0MAF2HSqyFPhYtscH",
+          "name": "Neckwav",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "11pXvO7wYuzRWYONDOBd33",
+          "name": "Danny Chung",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "2RYonYiVhhzBz82UFXOvEN",
+          "name": "KEVIN WOO",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "1eDupbD9kIx8UaZlzcBG5r",
+          "name": "samUIL Lee",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "7mW7Tv7NvywKKXqafZo0Lc",
+          "name": "KPop Demon Hunters Cast",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Your Idol (from the Netflix film KPop Demon Hunters)",
+        "id": "51I9Z7aAe3SihvybOkeDta",
+        "artists": [
+          {
+            "id": "7mW7Tv7NvywKKXqafZo0Lc",
+            "name": "KPop Demon Hunters Cast",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "0BJ2EjOqcfgFvlZXNKrNbE",
+            "name": "Saja Boys",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-06-19",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2732d4ae50ef62fa0e163484129",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2732d4ae50ef62fa0e163484129",
+      "type": "track"
+    },
+    {
+      "id": "1mh9eHVRdNhzryG43PXdW1",
+      "name": "MUTT",
+      "duration": 193333,
+      "artists": [
+        {
+          "id": "0nnBZ8FXWjG9wZgM2cpfeb",
+          "name": "Leon Thomas",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "MUTT",
+        "id": "0b64yYszabe2wxhG1PiSQo",
+        "artists": [
+          {
+            "id": "0nnBZ8FXWjG9wZgM2cpfeb",
+            "name": "Leon Thomas",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2024-08-09",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27382a5b97ffaf87e21ce6fdf4a",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27382a5b97ffaf87e21ce6fdf4a",
+      "type": "track"
+    },
+    {
+      "id": "1qbmS6ep2hbBRaEZFpn7BX",
+      "name": "Man I Need",
+      "duration": 184000,
+      "artists": [
+        {
+          "id": "00x1fYSGhdqScXBRpSj3DW",
+          "name": "Olivia Dean",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Man I Need",
+        "id": "0Bv6OJO0L5gcf20DMww54a",
+        "artists": [
+          {
+            "id": "00x1fYSGhdqScXBRpSj3DW",
+            "name": "Olivia Dean",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-08-15",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273e3d69e17dde129037a1f09e2",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273e3d69e17dde129037a1f09e2",
+      "type": "track"
+    },
+    {
+      "id": "2plbrEY59IikOBgBGLjaoe",
+      "name": "Die With A Smile",
+      "duration": 251667,
+      "artists": [
+        {
+          "id": "1HY2Jd0NmPuamShAr6KMms",
+          "name": "Lady Gaga",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Die With A Smile",
+        "id": "10FLjwfpbxLmW8c25Xyc2N",
+        "artists": [
+          {
+            "id": "1HY2Jd0NmPuamShAr6KMms",
+            "name": "Lady Gaga",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "0du5cEVh5yTK9QJze8zA0C",
+            "name": "Bruno Mars",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2024-08-16",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45",
+      "type": "track"
+    },
+    {
+      "id": "42UBPzRMh5yyz0EDPr6fr1",
+      "name": "Manchild",
+      "duration": 213645,
+      "artists": [
+        {
+          "id": "74KM79TiuVKeVCqs8QtB0B",
+          "name": "Sabrina Carpenter",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Manchild",
+        "id": "3wRHV5fOeUcM5hvYzWZsic",
+        "artists": [
+          {
+            "id": "74KM79TiuVKeVCqs8QtB0B",
+            "name": "Sabrina Carpenter",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-06-05",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273062c6573009fdebd43de443b",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273062c6573009fdebd43de443b",
+      "type": "track"
+    },
+    {
+      "id": "6tNQ70jh4OwmPGpYy6R2o9",
+      "name": "Beautiful Things",
+      "duration": 180304,
+      "artists": [
+        {
+          "id": "22wbnEMDvgVIAGdFeek6ET",
+          "name": "Benson Boone",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Beautiful Things",
+        "id": "29aSKB1qPEbN0Qf9OPSQpw",
+        "artists": [
+          {
+            "id": "22wbnEMDvgVIAGdFeek6ET",
+            "name": "Benson Boone",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2024-01-18",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273bef221ea02a821e7feeda9cf",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273bef221ea02a821e7feeda9cf",
+      "type": "track"
+    },
+    {
+      "id": "2FQrifJ1N335Ljm3TjTVVf",
+      "name": "A Bar Song (Tipsy)",
+      "duration": 171291,
+      "artists": [
+        {
+          "id": "3y2cIKLjiOlp1Np37WiUdH",
+          "name": "Shaboozey",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "A Bar Song (Tipsy)",
+        "id": "6egBeCLeGITzGSo5VyRjwZ",
+        "artists": [
+          {
+            "id": "3y2cIKLjiOlp1Np37WiUdH",
+            "name": "Shaboozey",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2024-04-12",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2",
+      "type": "track"
+    },
+    {
+      "id": "3RXUgPNIbUgFxsDWuBQEt6",
+      "name": "How It’s Done",
+      "duration": 176059,
+      "artists": [
+        {
+          "id": "2yNNYQBChuox9A5Ka93BIn",
+          "name": "HUNTR/X",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "0RMJOzHDhAKY1o2j0W0vxY",
+          "name": "EJAE",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "0Wwji82sLA0Hcvtuak3omb",
+          "name": "AUDREY NUNA",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "6U1dV7aL68N7Gb0Naq34V5",
+          "name": "REI AMI",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "7mW7Tv7NvywKKXqafZo0Lc",
+          "name": "KPop Demon Hunters Cast",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "id": "14JkAa6IiFaOh5s0nMyMU9",
+        "artists": [
+          {
+            "id": "7mW7Tv7NvywKKXqafZo0Lc",
+            "name": "KPop Demon Hunters Cast",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "2yNNYQBChuox9A5Ka93BIn",
+            "name": "HUNTR/X",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "0BJ2EjOqcfgFvlZXNKrNbE",
+            "name": "Saja Boys",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-06-20",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+      "type": "track"
+    },
+    {
+      "id": "0bxPRWprUVpQK0UFcddkrA",
+      "name": "Folded",
+      "duration": 238120,
+      "artists": [
+        {
+          "id": "0cGUm45nv7Z6M6qdXYQGTX",
+          "name": "Kehlani",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Folded",
+        "id": "5enIvPn8EEPWMGxzBzxvcm",
+        "artists": [
+          {
+            "id": "0cGUm45nv7Z6M6qdXYQGTX",
+            "name": "Kehlani",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-06-11",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273c23c6110d6061ba7e2311141",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273c23c6110d6061ba7e2311141",
+      "type": "track"
+    },
+    {
+      "id": "02Ya2Q08bBKFqUJvjmyRXK",
+      "name": "Just In Case",
+      "duration": 166206,
+      "artists": [
+        {
+          "id": "4oUHIQIBe0LHzYfvXNW4QM",
+          "name": "Morgan Wallen",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Just In Case",
+        "id": "1LgijIY2d3GFKb5bhWYOf4",
+        "artists": [
+          {
+            "id": "4oUHIQIBe0LHzYfvXNW4QM",
+            "name": "Morgan Wallen",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-03-21",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273e69f7f1c43cebd102126e8f3",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273e69f7f1c43cebd102126e8f3",
+      "type": "track"
+    },
+    {
+      "id": "1k2pQc5i348DCHwbn5KTdc",
+      "name": "Pink Pony Club",
+      "duration": 258034,
+      "artists": [
+        {
+          "id": "7GlBOeep6PqTfFi59PTUUN",
+          "name": "Chappell Roan",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "id": "0EiI8ylL0FmWWpgHVTsZjZ",
+        "artists": [
+          {
+            "id": "7GlBOeep6PqTfFi59PTUUN",
+            "name": "Chappell Roan",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2023-09-22",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6",
+      "type": "track"
+    },
+    {
+      "id": "4AajxCEwGEsmHmT4H1TwjY",
+      "name": "undressed",
+      "duration": 182088,
+      "artists": [
+        {
+          "id": "4G9NDjRyZFDlJKMRL8hx3S",
+          "name": "sombr",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "undressed",
+        "id": "19m6pwPmwNFSPV7wtHtg7D",
+        "artists": [
+          {
+            "id": "4G9NDjRyZFDlJKMRL8hx3S",
+            "name": "sombr",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-03-21",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273dad39d4906f76b7c176effb1",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273dad39d4906f76b7c176effb1",
+      "type": "track"
+    },
+    {
+      "id": "0FTmksd2dxiE5e3rWyJXs6",
+      "name": "back to friends",
+      "duration": 199032,
+      "artists": [
+        {
+          "id": "4G9NDjRyZFDlJKMRL8hx3S",
+          "name": "sombr",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "back to friends",
+        "id": "0QLILSOq1IqAqx62drmv4E",
+        "artists": [
+          {
+            "id": "4G9NDjRyZFDlJKMRL8hx3S",
+            "name": "sombr",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2024-12-27",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2739d24f74c1e2d8a12b1e591ec",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2739d24f74c1e2d8a12b1e591ec",
+      "type": "track"
+    },
+    {
+      "id": "54p6vNJwGkt4FTaM8SCsxt",
+      "name": "Good News",
+      "duration": 199209,
+      "artists": [
+        {
+          "id": "3y2cIKLjiOlp1Np37WiUdH",
+          "name": "Shaboozey",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Good News",
+        "id": "7cBvtedB1E62VoOdnGx51w",
+        "artists": [
+          {
+            "id": "3y2cIKLjiOlp1Np37WiUdH",
+            "name": "Shaboozey",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2024-11-15",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273c97e11e794ddcd2c353ea390",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273c97e11e794ddcd2c353ea390",
+      "type": "track"
+    },
+    {
+      "id": "42VUCXerQ5qTr4Qp6PhKo4",
+      "name": "Tears",
+      "duration": 160183,
+      "artists": [
+        {
+          "id": "74KM79TiuVKeVCqs8QtB0B",
+          "name": "Sabrina Carpenter",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Man’s Best Friend",
+        "id": "1aqg30bNvLSWgShZgX4oop",
+        "artists": [
+          {
+            "id": "74KM79TiuVKeVCqs8QtB0B",
+            "name": "Sabrina Carpenter",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-08-29",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
+      "type": "track"
+    },
+    {
+      "id": "7AeM1BGYM7emrqmQn1PuWv",
+      "name": "I'm The Problem",
+      "duration": 177811,
+      "artists": [
+        {
+          "id": "4oUHIQIBe0LHzYfvXNW4QM",
+          "name": "Morgan Wallen",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "I’m The Problem",
+        "id": "5IZ8sY5FjtL9hloXpv0XbD",
+        "artists": [
+          {
+            "id": "4oUHIQIBe0LHzYfvXNW4QM",
+            "name": "Morgan Wallen",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-05-16",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27335ea219ce47813b5e2dc3745",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27335ea219ce47813b5e2dc3745",
+      "type": "track"
+    },
+    {
+      "id": "221eHga9f9Ne4f8D7WVgPT",
+      "name": "Mystical Magical",
+      "duration": 165746,
+      "artists": [
+        {
+          "id": "22wbnEMDvgVIAGdFeek6ET",
+          "name": "Benson Boone",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Mystical Magical",
+        "id": "7y5UZkCSxTUo47pxeTWbXK",
+        "artists": [
+          {
+            "id": "22wbnEMDvgVIAGdFeek6ET",
+            "name": "Benson Boone",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-04-24",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273df98c5b533f9feac6fa81061",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273df98c5b533f9feac6fa81061",
+      "type": "track"
+    },
+    {
+      "id": "5sBDrrtLGbV64QJnEqfjer",
+      "name": "What It Sounds Like",
+      "duration": 250268,
+      "artists": [
+        {
+          "id": "2yNNYQBChuox9A5Ka93BIn",
+          "name": "HUNTR/X",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "0RMJOzHDhAKY1o2j0W0vxY",
+          "name": "EJAE",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "0Wwji82sLA0Hcvtuak3omb",
+          "name": "AUDREY NUNA",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "6U1dV7aL68N7Gb0Naq34V5",
+          "name": "REI AMI",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "7mW7Tv7NvywKKXqafZo0Lc",
+          "name": "KPop Demon Hunters Cast",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "id": "14JkAa6IiFaOh5s0nMyMU9",
+        "artists": [
+          {
+            "id": "7mW7Tv7NvywKKXqafZo0Lc",
+            "name": "KPop Demon Hunters Cast",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "2yNNYQBChuox9A5Ka93BIn",
+            "name": "HUNTR/X",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "0BJ2EjOqcfgFvlZXNKrNbE",
+            "name": "Saja Boys",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-06-20",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+      "type": "track"
+    },
+    {
+      "id": "45J4avUb9Ni0bnETYaYFVJ",
+      "name": "luther (with sza)",
+      "duration": 177598,
+      "artists": [
+        {
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "7tYKF4w9nC0nq9CsPZTHyP",
+          "name": "SZA",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "GNX",
+        "id": "0hvT3yIEysuuvkK73vgdcW",
+        "artists": [
+          {
+            "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "name": "Kendrick Lamar",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2024-11-22",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+      "type": "track"
+    },
+    {
+      "id": "0t3pcqgBjuAVBgY2oEUIlH",
+      "name": "It Depends (feat. Bryson Tiller)",
+      "duration": 271874,
+      "artists": [
+        {
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "2EMAnMvWE2eb56ToJVfCWs",
+          "name": "Bryson Tiller",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "It Depends (feat. Bryson Tiller)",
+        "id": "6FA7O8oQl5eReFrDYjkusP",
+        "artists": [
+          {
+            "id": "7bXgB6jMjp9ATFy66eO08Z",
+            "name": "Chris Brown",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "2EMAnMvWE2eb56ToJVfCWs",
+            "name": "Bryson Tiller",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-07-25",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27326327a7efee05c281278d9b8",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27326327a7efee05c281278d9b8",
+      "type": "track"
+    },
+    {
+      "id": "0MHStU0muAIEMbwdnebYu2",
+      "name": "Takedown",
+      "duration": 182016,
+      "artists": [
+        {
+          "id": "2yNNYQBChuox9A5Ka93BIn",
+          "name": "HUNTR/X",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "0RMJOzHDhAKY1o2j0W0vxY",
+          "name": "EJAE",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "0Wwji82sLA0Hcvtuak3omb",
+          "name": "AUDREY NUNA",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "6U1dV7aL68N7Gb0Naq34V5",
+          "name": "REI AMI",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "7mW7Tv7NvywKKXqafZo0Lc",
+          "name": "KPop Demon Hunters Cast",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "id": "14JkAa6IiFaOh5s0nMyMU9",
+        "artists": [
+          {
+            "id": "7mW7Tv7NvywKKXqafZo0Lc",
+            "name": "KPop Demon Hunters Cast",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "2yNNYQBChuox9A5Ka93BIn",
+            "name": "HUNTR/X",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "0BJ2EjOqcfgFvlZXNKrNbE",
+            "name": "Saja Boys",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-06-20",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+      "type": "track"
+    },
+    {
+      "id": "5DxDLsW6PsLz5gkwC7Mk5S",
+      "name": "Free",
+      "duration": 187963,
+      "artists": [
+        {
+          "id": "2DSE0PhxKUmTPLfZm13sup",
+          "name": "Rumi",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "0rIiNDJUesrgFPkYesJmKl",
+          "name": "Jinu",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "0RMJOzHDhAKY1o2j0W0vxY",
+          "name": "EJAE",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "7JBaynR7JFeniONqbnn1U4",
+          "name": "Andrew Choi",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "7mW7Tv7NvywKKXqafZo0Lc",
+          "name": "KPop Demon Hunters Cast",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "id": "14JkAa6IiFaOh5s0nMyMU9",
+        "artists": [
+          {
+            "id": "7mW7Tv7NvywKKXqafZo0Lc",
+            "name": "KPop Demon Hunters Cast",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "2yNNYQBChuox9A5Ka93BIn",
+            "name": "HUNTR/X",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "0BJ2EjOqcfgFvlZXNKrNbE",
+            "name": "Saja Boys",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-06-20",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+      "type": "track"
+    },
+    {
+      "id": "5Xl87hTgoBbSnEXKNse77Q",
+      "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
+      "duration": 235773,
+      "artists": [
+        {
+          "id": "6ZV6lGY0prbqpTD0Md8i29",
+          "name": "Scotty McCreery",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "08ct2eZF5lUPdJpHwNKWof",
+          "name": "Hootie & The Blowfish",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
+        "id": "5gXncoYdko6hXM08RQKgsB",
+        "artists": [
+          {
+            "id": "6ZV6lGY0prbqpTD0Md8i29",
+            "name": "Scotty McCreery",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "08ct2eZF5lUPdJpHwNKWof",
+            "name": "Hootie & The Blowfish",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-05-15",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273c93081d9673f39c04282c980",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273c93081d9673f39c04282c980",
+      "type": "track"
+    },
+    {
+      "id": "29iva9idM6rFCPUlu7Rhxl",
+      "name": "YUKON",
+      "duration": 163866,
+      "artists": [
+        {
+          "id": "1uNFoZAHBGtllmzznpCI3s",
+          "name": "Justin Bieber",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "SWAG",
+        "id": "5vD5M5VW62LL78Ko8x0CVZ",
+        "artists": [
+          {
+            "id": "1uNFoZAHBGtllmzznpCI3s",
+            "name": "Justin Bieber",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-07-11",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273d65c4773bc5061fd27facc5b",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273d65c4773bc5061fd27facc5b",
+      "type": "track"
+    },
+    {
+      "id": "0aWHb6ujnlXkmmOI1ltStc",
+      "name": "Burning Blue",
+      "duration": 205724,
+      "artists": [
+        {
+          "id": "7HO5fOXE4gh3lzZn64tX2E",
+          "name": "Mariah the Scientist",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Burning Blue",
+        "id": "02DSnnPzc0do4lZmfJjeeg",
+        "artists": [
+          {
+            "id": "7HO5fOXE4gh3lzZn64tX2E",
+            "name": "Mariah the Scientist",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-05-02",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273fb8a937a2e895f897113adba",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273fb8a937a2e895f897113adba",
+      "type": "track"
+    },
+    {
+      "id": "0je57Uq5eTk1wrPzn9sWbl",
+      "name": "When Did You Get Hot?",
+      "duration": 145398,
+      "artists": [
+        {
+          "id": "74KM79TiuVKeVCqs8QtB0B",
+          "name": "Sabrina Carpenter",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Man’s Best Friend",
+        "id": "1aqg30bNvLSWgShZgX4oop",
+        "artists": [
+          {
+            "id": "74KM79TiuVKeVCqs8QtB0B",
+            "name": "Sabrina Carpenter",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-08-29",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
+      "type": "track"
+    },
+    {
+      "id": "1IfGOnXoMBkiKC9xljlSfa",
+      "name": "Jealous Type",
+      "duration": 163647,
+      "artists": [
+        {
+          "id": "5cj0lLjcoR7YOSnhnX0Po5",
+          "name": "Doja Cat",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Jealous Type",
+        "id": "5faw0b6BBJiTHGNl9aaoc5",
+        "artists": [
+          {
+            "id": "5cj0lLjcoR7YOSnhnX0Po5",
+            "name": "Doja Cat",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-08-21",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273d347cb974ff024a545c5cd54",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273d347cb974ff024a545c5cd54",
+      "type": "track"
+    },
+    {
+      "id": "73kIKvg65QWieOKXIwyLJP",
+      "name": "All The Way (feat. Bailey Zimmerman)",
+      "duration": 165000,
+      "artists": [
+        {
+          "id": "6qxpnaukVayrQn6ViNvu9I",
+          "name": "BigXthaPlug",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "3win9vGIxFfBRag9S63wwf",
+          "name": "Bailey Zimmerman",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "All The Way (feat. Bailey Zimmerman)",
+        "id": "6ySeR2u4QyfkeZBVL4yORh",
+        "artists": [
+          {
+            "id": "6qxpnaukVayrQn6ViNvu9I",
+            "name": "BigXthaPlug",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "3win9vGIxFfBRag9S63wwf",
+            "name": "Bailey Zimmerman",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-04-04",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273eedca2962d36208f21037d62",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273eedca2962d36208f21037d62",
+      "type": "track"
+    },
+    {
+      "id": "6tlZIGGXozhQpYyKesjwWL",
+      "name": "Back in the Saddle",
+      "duration": 212962,
+      "artists": [
+        {
+          "id": "718COspgdWOnwOFpJHRZHS",
+          "name": "Luke Combs",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Back in the Saddle",
+        "id": "5zx6pJUEcQKKA7k8hBNkUJ",
+        "artists": [
+          {
+            "id": "718COspgdWOnwOFpJHRZHS",
+            "name": "Luke Combs",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-07-25",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734c1222646f923d665c63e761",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734c1222646f923d665c63e761",
+      "type": "track"
+    },
+    {
+      "id": "1vgourDwo7hFFamSxepvar",
+      "name": "Happen To Me",
+      "duration": 183615,
+      "artists": [
+        {
+          "id": "1E2AEtxaFaJtH0lO7kgNKw",
+          "name": "Russell Dickerson",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Famous Back Home",
+        "id": "4ALnU1TkEJ01SfM3yblwy5",
+        "artists": [
+          {
+            "id": "1E2AEtxaFaJtH0lO7kgNKw",
+            "name": "Russell Dickerson",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-08-22",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273fe8013ef2f15d13453b43c50",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273fe8013ef2f15d13453b43c50",
+      "type": "track"
+    },
+    {
+      "id": "15zJeVUmKFnbrxm9dxcxYD",
+      "name": "Sorry I'm Here For Someone Else",
+      "duration": 156582,
+      "artists": [
+        {
+          "id": "22wbnEMDvgVIAGdFeek6ET",
+          "name": "Benson Boone",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "American Heart",
+        "id": "3C0QJ1R0T3xX0BUbOZcdCw",
+        "artists": [
+          {
+            "id": "22wbnEMDvgVIAGdFeek6ET",
+            "name": "Benson Boone",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-06-20",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27311b6c087ac030b4e396e32c0",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27311b6c087ac030b4e396e32c0",
+      "type": "track"
+    },
+    {
+      "id": "212xtcXoSqbbwFAYd0zvNP",
+      "name": "Bar None",
+      "duration": 173064,
+      "artists": [
+        {
+          "id": "77kULmXAQ6vWer7IIHdGzI",
+          "name": "Jordan Davis",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Bar None",
+        "id": "2dbV2Hkxmm5CiUu7a5tBjI",
+        "artists": [
+          {
+            "id": "77kULmXAQ6vWer7IIHdGzI",
+            "name": "Jordan Davis",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-03-28",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273713aeea82b970b7c268df137",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273713aeea82b970b7c268df137",
+      "type": "track"
+    },
+    {
+      "id": "5q9I5RmmrLC4U2mW2BnF3K",
+      "name": "Safe (feat. Kehlani)",
+      "duration": 177886,
+      "artists": [
+        {
+          "id": "4kYSro6naA4h99UJvo89HB",
+          "name": "Cardi B",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "0cGUm45nv7Z6M6qdXYQGTX",
+          "name": "Kehlani",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "AM I THE DRAMA?",
+        "id": "1LsNb6mVitbLZCxnRsbCDJ",
+        "artists": [
+          {
+            "id": "4kYSro6naA4h99UJvo89HB",
+            "name": "Cardi B",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-09-19",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+      "type": "track"
+    },
+    {
+      "id": "2cBtsB7Pi89q9yWk59a2sX",
+      "name": "ErrTime",
+      "duration": 146553,
+      "artists": [
+        {
+          "id": "4kYSro6naA4h99UJvo89HB",
+          "name": "Cardi B",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "AM I THE DRAMA?",
+        "id": "1LsNb6mVitbLZCxnRsbCDJ",
+        "artists": [
+          {
+            "id": "4kYSro6naA4h99UJvo89HB",
+            "name": "Cardi B",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-09-19",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+      "type": "track"
+    },
+    {
+      "id": "3cZajhyr8LmtPfHZ9296tj",
+      "name": "No Broke Boys",
+      "duration": 163994,
+      "artists": [
+        {
+          "id": "5Kmr0b3ip8g9P2i0dLTC3Z",
+          "name": "Disco Lines",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "0NIIxcxNHmOoyBx03SfTCD",
+          "name": "Tinashe",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "No Broke Boys",
+        "id": "520FALYwo6yPbp5kBchA8N",
+        "artists": [
+          {
+            "id": "5Kmr0b3ip8g9P2i0dLTC3Z",
+            "name": "Disco Lines",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "0NIIxcxNHmOoyBx03SfTCD",
+            "name": "Tinashe",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-06-06",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2735dcede7ece7b2cb72cee4eee",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2735dcede7ece7b2cb72cee4eee",
+      "type": "track"
+    },
+    {
+      "id": "541sN2qNfIlllGn9nGOQoC",
+      "name": "Revolving door",
+      "duration": 180032,
+      "artists": [
+        {
+          "id": "45dkTj5sMRSjrmBSBeiHym",
+          "name": "Tate McRae",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "So Close To What",
+        "id": "3w32SV56JvtJXsrYtThwzP",
+        "artists": [
+          {
+            "id": "45dkTj5sMRSjrmBSBeiHym",
+            "name": "Tate McRae",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-02-21",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273de9b9cbdd872ae103d8530c2",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273de9b9cbdd872ae103d8530c2",
+      "type": "track"
+    },
+    {
+      "id": "6xV7Be6XEvkSnighmh2Tzj",
+      "name": "Sugar On My Tongue",
+      "duration": 153332,
+      "artists": [
+        {
+          "id": "4V8LLVI7PbaPR0K2TGSxFF",
+          "name": "Tyler, The Creator",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "id": "1jzv3jwZbt8lYfEtMjiD1R",
+        "artists": [
+          {
+            "id": "4V8LLVI7PbaPR0K2TGSxFF",
+            "name": "Tyler, The Creator",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-07-21",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273979047951fa8b15df9f9e984",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273979047951fa8b15df9f9e984",
+      "type": "track"
+    },
+    {
+      "id": "4u2pk0zATUkEeMtuuMtu46",
+      "name": "Worst Way",
+      "duration": 220558,
+      "artists": [
+        {
+          "id": "2QMsj4XJ7ne2hojxt6v5eb",
+          "name": "Riley Green",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Worst Way",
+        "id": "2pEZkJlkzLMBXPUPWyQJxn",
+        "artists": [
+          {
+            "id": "2QMsj4XJ7ne2hojxt6v5eb",
+            "name": "Riley Green",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2024-03-29",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27327fffe3e84987cfae56d7111",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27327fffe3e84987cfae56d7111",
+      "type": "track"
+    },
+    {
+      "id": "0U1nO2frLx8w2dIsfvlP1d",
+      "name": "Hell At Night (feat. Ella Langley)",
+      "duration": 179240,
+      "artists": [
+        {
+          "id": "6qxpnaukVayrQn6ViNvu9I",
+          "name": "BigXthaPlug",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "6BRxQ8cD3eqnrVj6WKDok8",
+          "name": "Ella Langley",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Hell At Night (feat. Ella Langley)",
+        "id": "1Nn0cOJPNZqKJlkq4AgY2V",
+        "artists": [
+          {
+            "id": "6qxpnaukVayrQn6ViNvu9I",
+            "name": "BigXthaPlug",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "6BRxQ8cD3eqnrVj6WKDok8",
+            "name": "Ella Langley",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-08-08",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273911cda459bd531ddc3888236",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273911cda459bd531ddc3888236",
+      "type": "track"
+    },
+    {
+      "id": "6MrLkXsMmHaYt680fhJUAq",
+      "name": "12 to 12",
+      "duration": 242903,
+      "artists": [
+        {
+          "id": "4G9NDjRyZFDlJKMRL8hx3S",
+          "name": "sombr",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "12 to 12",
+        "id": "2TrTb21wiXbwQohvN1UfFV",
+        "artists": [
+          {
+            "id": "4G9NDjRyZFDlJKMRL8hx3S",
+            "name": "sombr",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-07-24",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273e261428c386eb6de93bae544",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273e261428c386eb6de93bae544",
+      "type": "track"
+    },
+    {
+      "id": "1xOqGUkyxGQRdCvGpvWKmL",
+      "name": "Gabriela",
+      "duration": 197226,
+      "artists": [
+        {
+          "id": "3c0gDdb9lhnHGFtP4prQpn",
+          "name": "KATSEYE",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Gabriela",
+        "id": "6rpin9IVOuBEWBYnrA9hft",
+        "artists": [
+          {
+            "id": "3c0gDdb9lhnHGFtP4prQpn",
+            "name": "KATSEYE",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-06-20",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273f8d4d00ffe09373efb13ce29",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273f8d4d00ffe09373efb13ce29",
+      "type": "track"
+    },
+    {
+      "id": "16MeIVoFWTq2E0r6DwIek5",
+      "name": "House Again",
+      "duration": 203822,
+      "artists": [
+        {
+          "id": "0C4gtx1iHMfuaQ73GKWvtZ",
+          "name": "Hudson Westbrook",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "House Again",
+        "id": "4LP7dD3panB9oryXnMBqJW",
+        "artists": [
+          {
+            "id": "0C4gtx1iHMfuaQ73GKWvtZ",
+            "name": "Hudson Westbrook",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2024-10-18",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27343974767acd41ea478b5fe60",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27343974767acd41ea478b5fe60",
+      "type": "track"
+    },
+    {
+      "id": "4Km9FSF9iaQiTLnFPdbPom",
+      "name": "6 Months Later",
+      "duration": 182868,
+      "artists": [
+        {
+          "id": "5Ppie0uPnbnvGBYRwYmlt0",
+          "name": "Megan Moroney",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "6 Months Later",
+        "id": "0JGIg3ny1crTowB0Qi1Zx1",
+        "artists": [
+          {
+            "id": "5Ppie0uPnbnvGBYRwYmlt0",
+            "name": "Megan Moroney",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-06-20",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734310d50745941c4c14a69314",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734310d50745941c4c14a69314",
+      "type": "track"
+    },
+    {
+      "id": "1bXKpjbalq0If54LBffE0i",
+      "name": "Heart of Stone",
+      "duration": 181773,
+      "artists": [
+        {
+          "id": "19k8AgwwTSxeaxkOuCQEJs",
+          "name": "Jelly Roll",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Beautifully Broken",
+        "id": "2GW4VpFk9mbc6qYZ0zNuu3",
+        "artists": [
+          {
+            "id": "19k8AgwwTSxeaxkOuCQEJs",
+            "name": "Jelly Roll",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2024-10-10",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773",
+      "type": "track"
+    },
+    {
+      "id": "3QaPy1KgI7nu9FJEQUgn6h",
+      "name": "WILDFLOWER",
+      "duration": 261466,
+      "artists": [
+        {
+          "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+          "name": "Billie Eilish",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "id": "7aJuG4TFXa2hmE4z1yxc3n",
+        "artists": [
+          {
+            "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+            "name": "Billie Eilish",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2024-05-17",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+      "type": "track"
+    },
+    {
+      "id": "709ZIqPHyFOpx2QdjmeWAM",
+      "name": "Dracula",
+      "duration": 205308,
+      "artists": [
+        {
+          "id": "5INjqkS1o8h1imAzPqGZBb",
+          "name": "Tame Impala",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Dracula",
+        "id": "2kCjkEVRnLdEV5UOaQSAG4",
+        "artists": [
+          {
+            "id": "5INjqkS1o8h1imAzPqGZBb",
+            "name": "Tame Impala",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-09-26",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27378009881b6815a7efe6d7b35",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27378009881b6815a7efe6d7b35",
+      "type": "track"
+    },
+    {
+      "id": "5T0mnzMsyHtmWB7Kou51Ph",
+      "name": "Gorgeous",
+      "duration": 266021,
+      "artists": [
+        {
+          "id": "5cj0lLjcoR7YOSnhnX0Po5",
+          "name": "Doja Cat",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Vie",
+        "id": "1cqqIH16XzBnDchrXJ9Enf",
+        "artists": [
+          {
+            "id": "5cj0lLjcoR7YOSnhnX0Po5",
+            "name": "Doja Cat",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-09-26",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273f99c9248388dd77f24276a7c",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273f99c9248388dd77f24276a7c",
+      "type": "track"
+    },
+    {
+      "id": "0q2zGICTMJ3ZAZX0r2RLNH",
+      "name": "Outside",
+      "duration": 206711,
+      "artists": [
+        {
+          "id": "4kYSro6naA4h99UJvo89HB",
+          "name": "Cardi B",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "AM I THE DRAMA?",
+        "id": "1LsNb6mVitbLZCxnRsbCDJ",
+        "artists": [
+          {
+            "id": "4kYSro6naA4h99UJvo89HB",
+            "name": "Cardi B",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-09-19",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+      "type": "track"
+    },
+    {
+      "id": "0aGIy8kll4HYDnNTDlf2vU",
+      "name": "Somewhere Over Laredo",
+      "duration": 226000,
+      "artists": [
+        {
+          "id": "6tPHARSq45lQ8BSALCfkFC",
+          "name": "Lainey Wilson",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Somewhere Over Laredo",
+        "id": "7AM3OzfWrmxHJ5xkWSEEre",
+        "artists": [
+          {
+            "id": "6tPHARSq45lQ8BSALCfkFC",
+            "name": "Lainey Wilson",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-05-23",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27323e80692ba952f929bf38dc0",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27323e80692ba952f929bf38dc0",
+      "type": "track"
+    },
+    {
+      "id": "2wn0AYkmcF0Cm7PmvA7hJ7",
+      "name": "Pretty & Petty",
+      "duration": 183416,
+      "artists": [
+        {
+          "id": "4kYSro6naA4h99UJvo89HB",
+          "name": "Cardi B",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "AM I THE DRAMA?",
+        "id": "1LsNb6mVitbLZCxnRsbCDJ",
+        "artists": [
+          {
+            "id": "4kYSro6naA4h99UJvo89HB",
+            "name": "Cardi B",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-09-19",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+      "type": "track"
+    },
+    {
+      "id": "7dHblXsJTRemgyIvFNJE7t",
+      "name": "Magnet",
+      "duration": 178358,
+      "artists": [
+        {
+          "id": "4kYSro6naA4h99UJvo89HB",
+          "name": "Cardi B",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "AM I THE DRAMA?",
+        "id": "1LsNb6mVitbLZCxnRsbCDJ",
+        "artists": [
+          {
+            "id": "4kYSro6naA4h99UJvo89HB",
+            "name": "Cardi B",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-09-19",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+      "type": "track"
+    },
+    {
+      "id": "3NFs3XUduzBfvc5Bx1gmzh",
+      "name": "The Dead Dance",
+      "duration": 228518,
+      "artists": [
+        {
+          "id": "1HY2Jd0NmPuamShAr6KMms",
+          "name": "Lady Gaga",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "The Dead Dance",
+        "id": "1KdrtZn2AmuQPHKIr3h4e6",
+        "artists": [
+          {
+            "id": "1HY2Jd0NmPuamShAr6KMms",
+            "name": "Lady Gaga",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-09-03",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273d8a389abdf9cb2d03b85ff54",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273d8a389abdf9cb2d03b85ff54",
+      "type": "track"
+    },
+    {
+      "id": "4SRShYMtFIGgnOU7iBicMH",
+      "name": "Nobody’s Son",
+      "duration": 182576,
+      "artists": [
+        {
+          "id": "74KM79TiuVKeVCqs8QtB0B",
+          "name": "Sabrina Carpenter",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Man’s Best Friend",
+        "id": "1aqg30bNvLSWgShZgX4oop",
+        "artists": [
+          {
+            "id": "74KM79TiuVKeVCqs8QtB0B",
+            "name": "Sabrina Carpenter",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-08-29",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
+      "type": "track"
+    },
+    {
+      "id": "1rKQjUhF9zFJmuUotr3VkV",
+      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "duration": 181192,
+      "artists": [
+        {
+          "id": "7n2Ycct7Beij7Dj7meI4X0",
+          "name": "TWICE",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "id": "14JkAa6IiFaOh5s0nMyMU9",
+        "artists": [
+          {
+            "id": "7mW7Tv7NvywKKXqafZo0Lc",
+            "name": "KPop Demon Hunters Cast",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "2yNNYQBChuox9A5Ka93BIn",
+            "name": "HUNTR/X",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "0BJ2EjOqcfgFvlZXNKrNbE",
+            "name": "Saja Boys",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-06-20",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+      "type": "track"
+    },
+    {
+      "id": "4rFqRV4UCQubpw348acBq3",
+      "name": "Shot Callin",
+      "duration": 225185,
+      "artists": [
+        {
+          "id": "7wlFDEWiM5OoIAt8RSli8b",
+          "name": "YoungBoy Never Broke Again",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Shot Callin",
+        "id": "68SBxb7HlBIt6gIcKsS5A7",
+        "artists": [
+          {
+            "id": "7wlFDEWiM5OoIAt8RSli8b",
+            "name": "YoungBoy Never Broke Again",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-05-06",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27348a01bee651fe18592202621",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27348a01bee651fe18592202621",
+      "type": "track"
+    },
+    {
+      "id": "2HbCo1YJTZyF8hD3eyFKPN",
+      "name": "Just Keep Watching",
+      "duration": 142550,
+      "artists": [
+        {
+          "id": "45dkTj5sMRSjrmBSBeiHym",
+          "name": "Tate McRae",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "F1 The Album",
+        "id": "2HwRKkEp7jXbxXwcGyZYHK",
+        "artists": [
+          {
+            "id": "3aly4xJOy3LVznzvRIvFYC",
+            "name": "F1 The Album",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-06-27",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273c63a12b4d7de1d527566e61c",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273c63a12b4d7de1d527566e61c",
+      "type": "track"
+    },
+    {
+      "id": "6Q3lFQgpvhA9VApFKLFZtZ",
+      "name": "Strategy",
+      "duration": 168645,
+      "artists": [
+        {
+          "id": "7n2Ycct7Beij7Dj7meI4X0",
+          "name": "TWICE",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "id": "14JkAa6IiFaOh5s0nMyMU9",
+        "artists": [
+          {
+            "id": "7mW7Tv7NvywKKXqafZo0Lc",
+            "name": "KPop Demon Hunters Cast",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "2yNNYQBChuox9A5Ka93BIn",
+            "name": "HUNTR/X",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "0BJ2EjOqcfgFvlZXNKrNbE",
+            "name": "Saja Boys",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-06-20",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+      "type": "track"
+    },
+    {
+      "id": "4Iu73sdCNxZXZUIyClMoPZ",
+      "name": "Better Me For You (Brown Eyes)",
+      "duration": 194120,
+      "artists": [
+        {
+          "id": "340PS4ZcZ4UCBgyrXzEjcp",
+          "name": "Max McNown",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Night Diving",
+        "id": "10hjsM00M8pghNdZRwOShY",
+        "artists": [
+          {
+            "id": "340PS4ZcZ4UCBgyrXzEjcp",
+            "name": "Max McNown",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-01-24",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2730eb26fce888d263b2cdf5614",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2730eb26fce888d263b2cdf5614",
+      "type": "track"
+    },
+    {
+      "id": "6yIaRllz0lCXuISYsqyCNH",
+      "name": "Don’t Mind If I Do (ft. Ella Langley)",
+      "duration": 218946,
+      "artists": [
+        {
+          "id": "2QMsj4XJ7ne2hojxt6v5eb",
+          "name": "Riley Green",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "6BRxQ8cD3eqnrVj6WKDok8",
+          "name": "Ella Langley",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Don’t Mind If I Do (ft. Ella Langley)",
+        "id": "5tecOHW8icfevqfej3QEhg",
+        "artists": [
+          {
+            "id": "2QMsj4XJ7ne2hojxt6v5eb",
+            "name": "Riley Green",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "6BRxQ8cD3eqnrVj6WKDok8",
+            "name": "Ella Langley",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2024-09-06",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273f0cf29f4c3d289da678e7286",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273f0cf29f4c3d289da678e7286",
+      "type": "track"
+    },
+    {
+      "id": "60L7pHYOWXkTYDkzXCQJWt",
+      "name": "Ninja",
+      "duration": 230720,
+      "artists": [
+        {
+          "id": "50co4Is1HCEo8bhOyUWKpn",
+          "name": "Young Thug",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "UY SCUTI",
+        "id": "7hzxRdC8GOeSextdGlvgyR",
+        "artists": [
+          {
+            "id": "50co4Is1HCEo8bhOyUWKpn",
+            "name": "Young Thug",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-09-26",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273a06bfffe51ee43421c9bd1ff",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273a06bfffe51ee43421c9bd1ff",
+      "type": "track"
+    },
+    {
+      "id": "3hpm0fTeSqlhJbnqAgaLZs",
+      "name": "Marlboro Rojo",
+      "duration": 184173,
+      "artists": [
+        {
+          "id": "0ys2OFYzWYB5hRDLCsBqxt",
+          "name": "Fuerza Regida",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "111XPANTIA",
+        "id": "1JpJzuM4uncCfCimVozkmy",
+        "artists": [
+          {
+            "id": "0ys2OFYzWYB5hRDLCsBqxt",
+            "name": "Fuerza Regida",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-05-02",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2732a2f9ea25cf65b5fb744b604",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2732a2f9ea25cf65b5fb744b604",
+      "type": "track"
+    },
+    {
+      "id": "7Eb9i3xmiLuY5MiY6AhzzL",
+      "name": "Last One To Know",
+      "duration": 177024,
+      "artists": [
+        {
+          "id": "5jG6uRqinuI83luutMpW6y",
+          "name": "Gavin Adcock",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Last One To Know",
+        "id": "4zzLitRvQXzr4Eu2UVz0Nh",
+        "artists": [
+          {
+            "id": "5jG6uRqinuI83luutMpW6y",
+            "name": "Gavin Adcock",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-06-27",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27318743fae0911c4629a6233db",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27318743fae0911c4629a6233db",
+      "type": "track"
+    },
+    {
+      "id": "1jTe5liUdnRjbie1luBi6J",
+      "name": "Is It a Crime",
+      "duration": 181334,
+      "artists": [
+        {
+          "id": "7HO5fOXE4gh3lzZn64tX2E",
+          "name": "Mariah the Scientist",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "1U1el3k54VvEUzo3ybLPlM",
+          "name": "Kali Uchis",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Is It a Crime",
+        "id": "7jafwvgoGHW0JJGxQMgOci",
+        "artists": [
+          {
+            "id": "7HO5fOXE4gh3lzZn64tX2E",
+            "name": "Mariah the Scientist",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "1U1el3k54VvEUzo3ybLPlM",
+            "name": "Kali Uchis",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-07-31",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27385ff52b3a1e03d96c915531e",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27385ff52b3a1e03d96c915531e",
+      "type": "track"
+    },
+    {
+      "id": "726SEjbF3ToEbYbn43gnxl",
+      "name": "Nice To Meet You",
+      "duration": 176000,
+      "artists": [
+        {
+          "id": "3bO19AOone0ubCsfDXDtYt",
+          "name": "Myles Smith",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "A Minute...",
+        "id": "0BNzjDHvi3stIakYKnQoBY",
+        "artists": [
+          {
+            "id": "3bO19AOone0ubCsfDXDtYt",
+            "name": "Myles Smith",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2024-11-08",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2739ddcb072adff08acd2501a06",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2739ddcb072adff08acd2501a06",
+      "type": "track"
+    },
+    {
+      "id": "6wHpLMmp98aHcV8L1JFrj8",
+      "name": "Eternity",
+      "duration": 189553,
+      "artists": [
+        {
+          "id": "0fTSzq9jAh4c36UVb4V7CB",
+          "name": "Alex Warren",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "You'll Be Alright, Kid",
+        "id": "6FyViQsaJnS1e5if4ouzGK",
+        "artists": [
+          {
+            "id": "0fTSzq9jAh4c36UVb4V7CB",
+            "name": "Alex Warren",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-07-18",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273b0a2d7a2d8406a4a72a92d5c",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273b0a2d7a2d8406a4a72a92d5c",
+      "type": "track"
+    },
+    {
+      "id": "4kCkgD1ITALBjzBwGsf6tW",
+      "name": "wgft (feat. Burna Boy)",
+      "duration": 184440,
+      "artists": [
+        {
+          "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+          "name": "Gunna",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "3wcj11K77LjEY1PkEazffa",
+          "name": "Burna Boy",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "wgft (feat. Burna Boy)",
+        "id": "5LgGFj0CG4iJ1MynD791hi",
+        "artists": [
+          {
+            "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+            "name": "Gunna",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "3wcj11K77LjEY1PkEazffa",
+            "name": "Burna Boy",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-08-07",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734cd9515b597dd732192eb039",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734cd9515b597dd732192eb039",
+      "type": "track"
+    },
+    {
+      "id": "5MnPcgXz4RXqx09nIqvHKX",
+      "name": "Hello",
+      "duration": 155006,
+      "artists": [
+        {
+          "id": "4kYSro6naA4h99UJvo89HB",
+          "name": "Cardi B",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "AM I THE DRAMA?",
+        "id": "1LsNb6mVitbLZCxnRsbCDJ",
+        "artists": [
+          {
+            "id": "4kYSro6naA4h99UJvo89HB",
+            "name": "Cardi B",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-09-19",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+      "type": "track"
+    },
+    {
+      "id": "2SsY5k7UWFqgye3PUMG3Oq",
+      "name": "The Subway",
+      "duration": 252276,
+      "artists": [
+        {
+          "id": "7GlBOeep6PqTfFi59PTUUN",
+          "name": "Chappell Roan",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "The Subway",
+        "id": "7GlwcUYHB99l7k13I2Hira",
+        "artists": [
+          {
+            "id": "7GlBOeep6PqTfFi59PTUUN",
+            "name": "Chappell Roan",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-08-01",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2730b96f8824100aab118792442",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2730b96f8824100aab118792442",
+      "type": "track"
+    },
+    {
+      "id": "0InIeZW4P6VO7dUGRM4AKH",
+      "name": "Sienna",
+      "duration": 224840,
+      "artists": [
+        {
+          "id": "2sSGPbdZJkaSE2AbcGOACx",
+          "name": "The Marías",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Submarine",
+        "id": "03guxdOi12XJbnvxvxbpwG",
+        "artists": [
+          {
+            "id": "2sSGPbdZJkaSE2AbcGOACx",
+            "name": "The Marías",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2024-05-31",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273b19ac38a59cddd80da3cedcb",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273b19ac38a59cddd80da3cedcb",
+      "type": "track"
+    },
+    {
+      "id": "5priGGklHVnnJX1kKJOEsb",
+      "name": "Sparks",
+      "duration": 227093,
+      "artists": [
+        {
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "THE BEST EVER: Acoustic",
+        "id": "71UVaSMmZ7euquXpPIMrEv",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2016-05-16",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2732121e6f880b9855c30fd3fd2",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2732121e6f880b9855c30fd3fd2",
+      "type": "track"
+    },
+    {
+      "id": "6vqyk3mbDBv3npTpctYoka",
+      "name": "Camera",
+      "duration": 215511,
+      "artists": [
+        {
+          "id": "6eUKZXaKkcviH0Ku9w2n3V",
+          "name": "Ed Sheeran",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Play",
+        "id": "20dY0uZi9SzfrcWYfiWGqH",
+        "artists": [
+          {
+            "id": "6eUKZXaKkcviH0Ku9w2n3V",
+            "name": "Ed Sheeran",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-09-12",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27333a7966fa1f664e6657fdc5f",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27333a7966fa1f664e6657fdc5f",
+      "type": "track"
+    },
+    {
+      "id": "727x6SZXGF0LfU2vi3rjaH",
+      "name": "Darlin'",
+      "duration": 165000,
+      "artists": [
+        {
+          "id": "7HTLVyjNf0VRxfIgNcfRRH",
+          "name": "Chase Matthew",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "We All Grow Up",
+        "id": "1XXkk3jAPfmW5jyRbRON7x",
+        "artists": [
+          {
+            "id": "7HTLVyjNf0VRxfIgNcfRRH",
+            "name": "Chase Matthew",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2024-02-16",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2730f9c8e314dbaab6bbcd7965c",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2730f9c8e314dbaab6bbcd7965c",
+      "type": "track"
+    },
+    {
+      "id": "46aZJc0z1HHHSFxaIRxYSP",
+      "name": "Breakin' Dishes",
+      "duration": 200573,
+      "artists": [
+        {
+          "id": "5pKCCKE2ajJHZ9KAiaK11H",
+          "name": "Rihanna",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "id": "3JSWZWeTHF4HDGt5Eozdy7",
+        "artists": [
+          {
+            "id": "5pKCCKE2ajJHZ9KAiaK11H",
+            "name": "Rihanna",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2008-06-02",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98",
+      "type": "track"
+    },
+    {
+      "id": "25jgQBxuUkGDdCG1WGKKN9",
+      "name": "House Tour",
+      "duration": 169214,
+      "artists": [
+        {
+          "id": "74KM79TiuVKeVCqs8QtB0B",
+          "name": "Sabrina Carpenter",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Man’s Best Friend",
+        "id": "1aqg30bNvLSWgShZgX4oop",
+        "artists": [
+          {
+            "id": "74KM79TiuVKeVCqs8QtB0B",
+            "name": "Sabrina Carpenter",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-08-29",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
+      "type": "track"
+    },
+    {
+      "id": "0YsIYFRoxkmEvbKCwTp0Tg",
+      "name": "20 Cigarettes",
+      "duration": 160901,
+      "artists": [
+        {
+          "id": "4oUHIQIBe0LHzYfvXNW4QM",
+          "name": "Morgan Wallen",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "I’m The Problem",
+        "id": "5IZ8sY5FjtL9hloXpv0XbD",
+        "artists": [
+          {
+            "id": "4oUHIQIBe0LHzYfvXNW4QM",
+            "name": "Morgan Wallen",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-05-16",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27335ea219ce47813b5e2dc3745",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27335ea219ce47813b5e2dc3745",
+      "type": "track"
+    },
+    {
+      "id": "2I9517MJ7979KTtFjbDo5E",
+      "name": "Went Legit",
+      "duration": 140487,
+      "artists": [
+        {
+          "id": "5QdEbQJ3ylBnc3gsIASAT5",
+          "name": "G Herbo",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "23DYJsw4uSCguIqiTIDtcN",
+          "name": "Southside",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Greatest Rapper Alive",
+        "id": "4vN5GfZbDJsghl5XISGKo8",
+        "artists": [
+          {
+            "id": "5QdEbQJ3ylBnc3gsIASAT5",
+            "name": "G Herbo",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-04-09",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27320f9f574a76a3487dd11fe29",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27320f9f574a76a3487dd11fe29",
+      "type": "track"
+    },
+    {
+      "id": "4QpuZ1Qbcd11aOtY1kGMRg",
+      "name": "The Fall",
+      "duration": 197626,
+      "artists": [
+        {
+          "id": "6zLBxLdl60ekBLpawtT63I",
+          "name": "Cody Johnson",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Leather Deluxe Edition",
+        "id": "5CWUkGGArOj0vj7z1BogV0",
+        "artists": [
+          {
+            "id": "6zLBxLdl60ekBLpawtT63I",
+            "name": "Cody Johnson",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2024-11-01",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27345bf0dae20de8c27f089b5d8",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27345bf0dae20de8c27f089b5d8",
+      "type": "track"
+    },
+    {
+      "id": "5FMyXeZ0reYloRTiCkPprT",
+      "name": "Which One (feat. Central Cee)",
+      "duration": 169134,
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "5H4yInM5zmHqpKIoMNAx4r",
+          "name": "Central Cee",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Which One",
+        "id": "4TWJJZmgYm6tE6PzqpluQ0",
+        "artists": [
+          {
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "5H4yInM5zmHqpKIoMNAx4r",
+            "name": "Central Cee",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-07-25",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2738028a7b8c9fce086d4a47ba7",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2738028a7b8c9fce086d4a47ba7",
+      "type": "track"
+    },
+    {
+      "id": "3gnBcl5KRYTzIQyCOQug6F",
+      "name": "Dead (feat. Summer Walker)",
+      "duration": 267441,
+      "artists": [
+        {
+          "id": "4kYSro6naA4h99UJvo89HB",
+          "name": "Cardi B",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "57LYzLEk2LcFghVwuWbcuS",
+          "name": "Summer Walker",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "AM I THE DRAMA?",
+        "id": "1LsNb6mVitbLZCxnRsbCDJ",
+        "artists": [
+          {
+            "id": "4kYSro6naA4h99UJvo89HB",
+            "name": "Cardi B",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-09-19",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+      "type": "track"
+    },
+    {
+      "id": "4JI9FH3KOYOushudtnZt0z",
+      "name": "Bodega Baddie",
+      "duration": 104062,
+      "artists": [
+        {
+          "id": "4kYSro6naA4h99UJvo89HB",
+          "name": "Cardi B",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "AM I THE DRAMA?",
+        "id": "1LsNb6mVitbLZCxnRsbCDJ",
+        "artists": [
+          {
+            "id": "4kYSro6naA4h99UJvo89HB",
+            "name": "Cardi B",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-09-19",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+      "type": "track"
+    },
+    {
+      "id": "55lijDD6OAjLFFUHU9tcDm",
+      "name": "WHERE IS MY HUSBAND!",
+      "duration": 196795,
+      "artists": [
+        {
+          "id": "5KKpBU5eC2tJDzf0wmlRp2",
+          "name": "RAYE",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "id": "01sqwTOTrN9gaYQc1rr6Zw",
+        "artists": [
+          {
+            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+            "name": "RAYE",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-09-19",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2737cc8cee5c81409833e540974",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2737cc8cee5c81409833e540974",
+      "type": "track"
+    },
+    {
+      "id": "2fuYa3Lx06QQJAm0MjztKr",
+      "name": "Let Down",
+      "duration": 299560,
+      "artists": [
+        {
+          "id": "4Z8W4fKeB5YxbusRsdQVPb",
+          "name": "Radiohead",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "OK Computer",
+        "id": "6dVIqQ8qmQ5GBnJ9shOYGE",
+        "artists": [
+          {
+            "id": "4Z8W4fKeB5YxbusRsdQVPb",
+            "name": "Radiohead",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "1997-05-28",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+      "type": "track"
+    },
+    {
+      "id": "5RpGHqlGHRTGWzNPBKW08D",
+      "name": "What's Goin On (feat. Lizzo)",
+      "duration": 204351,
+      "artists": [
+        {
+          "id": "4kYSro6naA4h99UJvo89HB",
+          "name": "Cardi B",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "56oDRnqbIiwx4mymNEv7dS",
+          "name": "Lizzo",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "AM I THE DRAMA?",
+        "id": "1LsNb6mVitbLZCxnRsbCDJ",
+        "artists": [
+          {
+            "id": "4kYSro6naA4h99UJvo89HB",
+            "name": "Cardi B",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-09-19",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+      "type": "track"
+    },
+    {
+      "id": "6M1vkKMDQZoh1sbH4asNcF",
+      "name": "Pick It Up (feat. Selena Gomez)",
+      "duration": 160782,
+      "artists": [
+        {
+          "id": "4kYSro6naA4h99UJvo89HB",
+          "name": "Cardi B",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+          "name": "Selena Gomez",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "AM I THE DRAMA?",
+        "id": "1LsNb6mVitbLZCxnRsbCDJ",
+        "artists": [
+          {
+            "id": "4kYSro6naA4h99UJvo89HB",
+            "name": "Cardi B",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-09-19",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+      "type": "track"
+    },
+    {
+      "id": "2K6T1iKa7coghsISspjPv8",
+      "name": "What Kinda Man",
+      "duration": 259022,
+      "artists": [
+        {
+          "id": "0Z8XVUAOBPM4x12wKnFHEQ",
+          "name": "Parker McCollum",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "What Kinda Man",
+        "id": "53HiQCmdwiT4e7SHX74XdM",
+        "artists": [
+          {
+            "id": "0Z8XVUAOBPM4x12wKnFHEQ",
+            "name": "Parker McCollum",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2024-09-13",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27330b96a7f49856b008c29212b",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27330b96a7f49856b008c29212b",
+      "type": "track"
+    },
+    {
+      "id": "1j15Ar0qGDzIR0v3CQv3JL",
+      "name": "Gnarly",
+      "duration": 137316,
+      "artists": [
+        {
+          "id": "3c0gDdb9lhnHGFtP4prQpn",
+          "name": "KATSEYE",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Gnarly",
+        "id": "25oD4E4cwmG7SCQIoF3ez5",
+        "artists": [
+          {
+            "id": "3c0gDdb9lhnHGFtP4prQpn",
+            "name": "KATSEYE",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-04-30",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2732ca769bb73374b00d09a1c82",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2732ca769bb73374b00d09a1c82",
+      "type": "track"
+    },
+    {
+      "id": "59D4DOkspUbWyMmbAPQkxZ",
+      "name": "VOY A LLeVARTE PA PR",
+      "duration": 156364,
+      "artists": [
+        {
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "DeBÍ TiRAR MáS FOToS",
+        "id": "5K79FLRUCSysQnVESLcTdb",
+        "artists": [
+          {
+            "id": "4q3ewBCX7sLwd24euuV69X",
+            "name": "Bad Bunny",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-01-05",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "type": "track"
+    },
+    {
+      "id": "7gKxCvTDWwV9wBhdeBbr3l",
+      "name": "Nice To Each Other",
+      "duration": 209000,
+      "artists": [
+        {
+          "id": "00x1fYSGhdqScXBRpSj3DW",
+          "name": "Olivia Dean",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Nice To Each Other",
+        "id": "74sFrKGdI7ZBBVKrT9jtdV",
+        "artists": [
+          {
+            "id": "00x1fYSGhdqScXBRpSj3DW",
+            "name": "Olivia Dean",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-05-30",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273a9e75099d7065c71cc7ede72",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273a9e75099d7065c71cc7ede72",
+      "type": "track"
+    },
+    {
+      "id": "6sGIMrtIzQjdzNndVxe397",
+      "name": "So Easy (To Fall In Love)",
+      "duration": 169000,
+      "artists": [
+        {
+          "id": "00x1fYSGhdqScXBRpSj3DW",
+          "name": "Olivia Dean",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "The Art of Loving",
+        "id": "0l8zYqoUeBYg47Gmevq9HZ",
+        "artists": [
+          {
+            "id": "00x1fYSGhdqScXBRpSj3DW",
+            "name": "Olivia Dean",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-09-26",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b2739a336bfb6d40bbd90a507417",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2739a336bfb6d40bbd90a507417",
+      "type": "track"
+    },
+    {
+      "id": "2GFawZaMjG8QLxiR4OD3db",
+      "name": "Take Me Thru Dere",
+      "duration": 162826,
+      "artists": [
+        {
+          "id": "0iEtIxbK0KxaSlF7G42ZOp",
+          "name": "Metro Boomin",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "0VRj0yCOv2FXJNP47XQnx5",
+          "name": "Quavo",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "2wVt4s4eHizk62Er2CLunw",
+          "name": "Breskii",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "0W1zQBUWnDofTkc0APdaog",
+          "name": "YKNIECE",
+          "thumbnail": null,
+          "type": "artist"
+        },
+        {
+          "id": "7m4YY1JUSagIGuM9BL7KR1",
+          "name": "DJ Spinz",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
+        "id": "48UcYpGBpoNhEJriPfZFWJ",
+        "artists": [
+          {
+            "id": "0iEtIxbK0KxaSlF7G42ZOp",
+            "name": "Metro Boomin",
+            "thumbnail": null,
+            "type": "artist"
+          },
+          {
+            "id": "7m4YY1JUSagIGuM9BL7KR1",
+            "name": "DJ Spinz",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-08-01",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b27315c63783c035a7a56e5bd86e",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27315c63783c035a7a56e5bd86e",
+      "type": "track"
+    },
+    {
+      "id": "35a6cVn0WFLAyTqkQjA36O",
+      "name": "What An Awesome God",
+      "duration": 211866,
+      "artists": [
+        {
+          "id": "5d1JhBfyb58upMXCZOdbQu",
+          "name": "Phil Wickham",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "album": {
+        "name": "Song Of The Saints",
+        "id": "3dCVST3tivezhucROWxLrD",
+        "artists": [
+          {
+            "id": "5d1JhBfyb58upMXCZOdbQu",
+            "name": "Phil Wickham",
+            "thumbnail": null,
+            "type": "artist"
+          }
+        ],
+        "release_date": "2025-07-11",
+        "thumbnail": "https://i.scdn.co/image/ab67616d0000b273449c54259b09aa6d9a2599de",
+        "type": "album"
+      },
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273449c54259b09aa6d9a2599de",
+      "type": "track"
+    }
+  ]
+}
