@@ -5,6 +5,7 @@ import {
   handleGetNewSingles,
   handleGetPopularTracks,
   handleGetTopArtists,
+  handleGetTopAlbums,
   handleSearch,
   handleStream,
 } from "../controllers/music.controller.js";
@@ -18,5 +19,6 @@ musicRouter.get("/stream", handleStream);
 musicRouter.get("/new-singles/", handleGetNewSingles);
 musicRouter.get("/popular-songs/", handleGetPopularTracks);
 musicRouter.get("/top-artists/", handleGetTopArtists);
+musicRouter.get("/top-albums/", handleGetTopAlbums);
 
 export default musicRouter;

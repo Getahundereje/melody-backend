@@ -25,9 +25,11 @@
     "node-cron": "^4.2.1",
     "nodemailer": "^7.0.5",
     "play-dl": "^1.9.7",
-    "youtubei.js": "^15.0.1"
+    "youtubei.js": "^15.1.1",
+    "ytdl-core": "^4.11.5"
   },
   "devDependencies": {
-    "nodemon": "^3.0.1"
+    "nodemon": "^3.0.1",
+    "prettier": "^3.6.2"
   }
 }

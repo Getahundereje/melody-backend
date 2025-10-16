@@ -1,3 +1,6 @@
+import axios from "axios";
+import playdl from "play-dl";
+
 import catchAsyncError from "../utils/catchAsyncError.js";
 import search, {
   getAlbumInfo,
@@ -7,7 +10,6 @@ import search, {
   getPopularTracks,
   getTopAlbums,
   getTopArtists,
-  getTrackStreamUrl,
 } from "../api/spotify.js";
 import AppError from "../utils/appError.js";
 
@@ -114,40 +116,52 @@ export const handleGetTopAlbums = catchAsyncError(async (req, res) => {
     nextPage: page + 1,
     hasNext: page * limit < topAlbums.length,
     results: {
-      artists: topAlbums.slice((page - 1) * limit, page * limit),
+      albums: topAlbums.slice((page - 1) * limit, page * limit),
     },
   });
 });
 
-const handleStream = catchAsyncError(async (req, res, next) => {
-  const filePath = getDataFilePath("Interlude.mp3");
-  console.log(filePath)
+const musicStreamUrl = {};
 
-  const stat = fs.statSync(filePath);
-  const fileSize = stat.size;
-  const range = req.headers.range;
+function findMatchingUrl(results, targetDurationMs) {
+  const regex =
+    /\(\s*(?:official\s*(?:audio|video|lyrics?|lyric\s*video|video\s*lyrics?|visualizer)|audio\s*only|audio|lyrics?|lyric\s*video|video\s*lyrics?|visualizer)\s*\)|\[\s*(?:official\s*(?:audio|video|lyrics?|lyric\s*video|video\s*lyrics?|visualizer)|audio\s*only|audio|lyrics?|lyric\s*video|video\s*lyrics?|visualizer)\s*\]/i;
 
-  if (!range) {
-    res.status(400).send("Requires Range header");
-    return;
+  const targetDuration = targetDurationMs / 1000;
+
+  const match = results.find((result) => {
+    const titleMatches = regex.test(result.title);
+    const durationMatches =
+      result.durationInSec >= targetDuration &&
+      result.durationInSec <= targetDuration + 3;
+
+    return titleMatches && durationMatches;
+  });
+
+  return match.url;
+}
+
+const handleStream = catchAsyncError(async (req, res) => {
+  const { name, artists, duration } = req.query;
+  const key = `${name} ${Array.isArray(artists) ? artists.join(", ") : artists}`;
+
+  if (musicStreamUrl[key]) {
+    return res.status(200).json({
+      audio_url: musicStreamUrl[key],
+    });
   }
 
-  const CHUNK_SIZE = 10 ** 6;
-  const start = Number(range.replace(/\D/g, ""));
-  const end = Math.min(start + CHUNK_SIZE, fileSize - 1);
+  const results = await playdl.search(`${key}`);
 
-  const contentLength = end - start + 1;
-  const headers = {
-    "Content-Range": `bytes ${start}-${end}/${fileSize}`,
-    "Accept-Ranges": "bytes",
-    "Content-Length": contentLength,
-    "Content-Type": "audio/mpeg",
-  };
+  const url = findMatchingUrl(results, duration);
+  const response = await axios.get("http://127.0.0.1:5000/stream_audio", {
+    params: { url },
+  });
 
-  res.writeHead(206, headers);
-  const stream = fs.createReadStream(filePath, { start, end });
-  stream.pipe(res);
+  const streamUrl = response.data;
+  musicStreamUrl[key] = streamUrl.audio_url;
 
+  return res.status(200).json(streamUrl);
 });
 
 export {

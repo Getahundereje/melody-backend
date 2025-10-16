@@ -20,3 +20,6 @@ mongo-data
 
 #config
 .data
+
+#env
+yt-env

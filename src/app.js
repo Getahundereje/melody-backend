@@ -8,7 +8,7 @@ import musicRouter from "./routes/music.route.js";
 const app = express();
 
 app.use(cors({
-  origin: 'https://3000-firebase-melody-1757542624933.cluster-ikslh4rdsnbqsvu5nw3v4dqjj2.cloudworkstations.dev',
+  origin: '*',
   credentials: true,
 }))
 app.use(express.json());

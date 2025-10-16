@@ -1,5 +1,3 @@
-import jwt from "jsonwebtoken";
-
 import { checkEmail, createUser } from "../models/user/user.model.js";
 import catchAsyncError from "../utils/catchAsyncError.js";
 import AppError from "../utils/appError.js";

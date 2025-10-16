@@ -60,7 +60,7 @@ async function fetchSpotifyData(url) {
 
 export async function getAlbumTracks(id) {
   const { tracks, ...album } = await fetchSpotifyData(
-    `/albums/${id}?market=ET`
+    `/albums/${id}?market=ET`,
   );
 
   return tracks.items.map((track) => {
@@ -70,7 +70,7 @@ export async function getAlbumTracks(id) {
 
 async function getArtistAlbums(id) {
   const data = await fetchSpotifyData(
-    `/artists/${id}/albums?include_groups=album&market=ET&limit=10`
+    `/artists/${id}/albums?include_groups=album&market=ET&limit=10`,
   );
 
   return data.items.reduce((albums, album) => {
@@ -86,7 +86,7 @@ async function getArtistAlbums(id) {
 
 async function getArtistSingles(id) {
   const data = await fetchSpotifyData(
-    `/artists/${id}/albums?include_groups=single&market=ET&limit=50`
+    `/artists/${id}/albums?include_groups=single&market=ET&limit=50`,
   );
 
   return data.items.reduce((tracks, track) => {
@@ -116,7 +116,7 @@ async function search(term, searchType = "all", size = 20) {
   const limit = searchType === "all" ? 10 : size;
 
   let data = await fetchSpotifyData(
-    `/search?q="${term}"&type=${searchTypes.join(",")}&market=ET&limit=${limit}`
+    `/search?q="${term}"&type=${searchTypes.join(",")}&market=ET&limit=${limit + 10}`,
   );
 
   return Object.keys(data).reduce((acc, key) => {
@@ -127,20 +127,14 @@ async function search(term, searchType = "all", size = 20) {
   }, {});
 }
 
-export async function getTrackStreamUrl(trackName, artistName) {
-  return await axios.get(
-    `https://f7fa9dd569a5.ngrok-free.app/stream-url?trackName=${trackName}&artistName=${artistName}`
-  );
-}
-
 export async function getNewSingles() {
   const data = await fetchSpotifyData(
-    `/browse/new-releases?country=ET&limit=50`
+    `/browse/new-releases?country=ET&limit=50`,
   );
 
   return data.albums.items
     .filter(
-      (album) => album.album_type === "single" && album.total_tracks === 1
+      (album) => album.album_type === "single" && album.total_tracks === 1,
     )
     .map(processTrackData);
 }
@@ -148,21 +142,21 @@ export async function getNewSingles() {
 export async function getPopularTracks() {
   return await getBillboardChartSpotifyData(
     BILLBOARD_CHARTS["hot-100"],
-    "songs"
+    "songs",
   );
 }
 
 export async function getTopArtists() {
   return await getBillboardChartSpotifyData(
     BILLBOARD_CHARTS["artist-100"],
-    "artists"
+    "artists",
   );
 }
 
 export async function getTopAlbums() {
   return await getBillboardChartSpotifyData(
     BILLBOARD_CHARTS["billboard-200"],
-    "albums"
+    "albums",
   );
 }
 

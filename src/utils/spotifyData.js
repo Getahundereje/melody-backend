@@ -18,7 +18,7 @@ export async function readSpotifyDataFile() {
 
     const data = await fs.readFile(
       path.join(__dirname, "..", "..", ".data", "spotify.data"),
-      "utf8"
+      "utf8",
     );
     return JSON.parse(data);
   } catch (error) {
@@ -35,7 +35,7 @@ export async function getBillboardChartSpotifyData(filename, dataType) {
       const term = data[`${index + 1}`].split(":")[0];
       const result = await search(term, dataType, 10);
       return result[`${dataType === "songs" ? "tracks" : dataType}`].find(
-        (music) => !/remix|live|edit|version/i.test(music.name)
+        (music) => !/remix|live|edit|version/i.test(music.name),
       );
     });
 
@@ -44,7 +44,7 @@ export async function getBillboardChartSpotifyData(filename, dataType) {
         issueDate: billboardData.issueDate,
         [dataType]: await Promise.all(spotifyDataPromises),
       },
-      filename
+      filename,
     );
     musicData = getMusicData(filename);
   }
