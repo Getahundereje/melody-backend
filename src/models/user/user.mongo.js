@@ -1,8 +1,8 @@
 import mongoose from "mongoose";
 import bcrypt from "bcrypt";
 
-import Playlist from "../playlist/playlist.mongo";
-import PlaylistType from "../../enums/playlistTypes";
+import Playlist from "../playlist/playlist.mongo.js";
+import PlaylistType from "../../enums/playlistTypes.js";
 
 const UserSchema = new mongoose.Schema(
   {

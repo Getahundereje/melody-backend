@@ -18,7 +18,7 @@ const server = http.createServer(app);
 (async () => {
   await loadBillboardChartData();
   await loadAllMusicData();
-  // await connectDB();
+  await connectDB();
   server.listen(port, () => {
     console.log(`listening on port ${port}`);
   });

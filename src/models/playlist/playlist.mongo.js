@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import PlaylistType from "../../enums/playlistTypes";
+import PlaylistType from "../../enums/playlistTypes.js";
 
 const PlaylistSchema = new mongoose.Schema(
   {
@@ -12,10 +12,10 @@ const PlaylistSchema = new mongoose.Schema(
       enum: Object.values(PlaylistType),
       default: PlaylistType.CUSTOM,
     },
-    tracks: [{ type: mongoose.Types.ObjectId, ref: "Track" }],
+    tracks: [{ type: String, ref: "Track" }],
     isPrivate: { type: Boolean, default: true },
   },
-  { timestamps: true },
+  { timestamps: true }
 );
 
 PlaylistSchema.virtual("id").get(function () {
