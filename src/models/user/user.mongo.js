@@ -22,7 +22,7 @@ const UserSchema = new mongoose.Schema(
       select: false,
     },
   },
-  { timestamp: true },
+  { timestamp: true }
 );
 
 UserSchema.virtual("id").get(function () {
@@ -47,14 +47,17 @@ UserSchema.methods.comparePassword = async function (password) {
 UserSchema.post("save", async function (doc, next) {
   try {
     const defaults = [
-      { name: "Favorites", type: PlaylistType.FAVORITE },
-      { name: "Recently Played", type: PlaylistType.RECENT },
+      {
+        name: "Favorites",
+        playlistType: PlaylistType.FAVORITE,
+        image: "default.webp",
+      },
+      { name: "Recently Played", playlistType: PlaylistType.RECENT },
     ];
 
     for (const value of defaults) {
       const existing = await Playlist.findOne({
         user: doc._id,
-        isFavorite: true,
       });
 
       if (!existing) {

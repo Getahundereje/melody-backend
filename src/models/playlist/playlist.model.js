@@ -2,8 +2,9 @@ import Playlist from "./playlist.mongo.js";
 import catchModelAsyncError from "../../utils/catchModelAsyncError.js";
 import handleMongooseError from "../../utils/handleMongooseError.js";
 import AppError from "../../utils/appError.js";
-import { createTrack, trackExists } from "../track/track.model.js";
+import { createTrack, deleteTrack, trackExists } from "../track/track.model.js";
 import { userExists } from "../user/user.model.js";
+import PlaylistType from "../../enums/playlistTypes.js";
 
 const trackExistsInAPlaylist = catchModelAsyncError(async (trackId) => {
   return await Playlist.exists({ tracks: trackId });
@@ -14,12 +15,23 @@ const trackExistsInPlaylist = catchModelAsyncError(
     return await Playlist.exists({ _id: playlistId, tracks: trackId });
   }
 );
+
 const playlistExists = catchModelAsyncError(async (playlistId) => {
   return await Playlist.exists({ _id: playlistId });
 });
 
 export const createPlaylist = catchModelAsyncError(async (playlistData) => {
-  return await Playlist.create(playlistData);
+  const playlist = await Playlist.create(playlistData);
+
+  return {
+    id: playlist.id,
+    name: playlist.name,
+    description: playlist.description,
+    thumbnail: playlist.thumbnail,
+    playlistType: playlist.playlistType,
+    type: playlist.type,
+    isPrivate: playlist.isPrivate,
+  };
 }, handleMongooseError);
 
 export const deletePlaylist = catchModelAsyncError(async (playlistId) => {
@@ -157,3 +169,17 @@ export const getDefaultPlaylistTracks = catchModelAsyncError(
   },
   handleMongooseError
 );
+
+export const isTrackInFavorites = catchModelAsyncError(async (trackId) => {
+  return Boolean(
+    await Playlist.exists({
+      tracks: trackId,
+      playlistType: PlaylistType.FAVORITE,
+    })
+  );
+});
+
+export const getTrackPlaylists = catchModelAsyncError(async (trackId) => {
+  const playlists = await Playlist.find({ tracks: trackId }, { id: 1 });
+  return playlists.map((playlist) => playlist.id) || [];
+});

@@ -60,17 +60,19 @@ async function fetchSpotifyData(url) {
 
 export async function getAlbumTracks(id) {
   const { tracks, ...album } = await fetchSpotifyData(
-    `/albums/${id}?market=ET`,
+    `/albums/${id}?market=ET`
   );
 
-  return tracks.items.map((track) => {
-    return processTrackData({ ...track, album });
-  });
+  return await Promise.all(
+    tracks.items.map(async (track) => {
+      return await processTrackData({ ...track, album });
+    })
+  );
 }
 
 async function getArtistAlbums(id) {
   const data = await fetchSpotifyData(
-    `/artists/${id}/albums?include_groups=album&market=ET&limit=10`,
+    `/artists/${id}/albums?include_groups=album&market=ET&limit=10`
   );
 
   return data.items.reduce((albums, album) => {
@@ -84,28 +86,6 @@ async function getArtistAlbums(id) {
   }, []);
 }
 
-async function getArtistSingles(id) {
-  const data = await fetchSpotifyData(
-    `/artists/${id}/albums?include_groups=single&market=ET&limit=50`,
-  );
-
-  return data.items.reduce((tracks, track) => {
-    const name = track.name.toLowerCase();
-
-    if (
-      name.includes("deluxe edition") ||
-      name.includes("bonus") ||
-      total_tracks > 1
-    ) {
-      return tracks;
-    }
-
-    tracks.push(processTrackData(track));
-
-    return tracks;
-  }, []);
-}
-
 async function search(term, searchType = "all", size = 20) {
   if (!SEARCH_TYPE[searchType]) {
     throw new AppError(`Please provide appropriate search type param.`, 400);
@@ -116,7 +96,7 @@ async function search(term, searchType = "all", size = 20) {
   const limit = searchType === "all" ? 10 : size;
 
   let data = await fetchSpotifyData(
-    `/search?q="${term}"&type=${searchTypes.join(",")}&market=ET&limit=${limit + 10}`,
+    `/search?q="${term}"&type=${searchTypes.join(",")}&market=ET&limit=${limit + 10}`
   );
 
   return Object.keys(data).reduce((acc, key) => {
@@ -129,43 +109,47 @@ async function search(term, searchType = "all", size = 20) {
 
 export async function getNewSingles() {
   const data = await fetchSpotifyData(
-    `/browse/new-releases?country=ET&limit=50`,
+    `/browse/new-releases?country=ET&limit=50`
   );
 
-  return data.albums.items
-    .filter(
-      (album) => album.album_type === "single" && album.total_tracks === 1,
-    )
-    .map(processTrackData);
+  return Promise.all(
+    data.albums.items
+      .filter(
+        (album) => album.album_type === "single" && album.total_tracks === 1
+      )
+      .map(processTrackData)
+  );
 }
 
 export async function getPopularTracks() {
   return await getBillboardChartSpotifyData(
     BILLBOARD_CHARTS["hot-100"],
-    "songs",
+    "songs"
   );
 }
 
 export async function getTopArtists() {
   return await getBillboardChartSpotifyData(
     BILLBOARD_CHARTS["artist-100"],
-    "artists",
+    "artists"
   );
 }
 
 export async function getTopAlbums() {
   return await getBillboardChartSpotifyData(
     BILLBOARD_CHARTS["billboard-200"],
-    "albums",
+    "albums"
   );
 }
 
 export async function getArtistTopTracks(id) {
   const data = await fetchSpotifyData(`artists/${id}/top-tracks`);
 
-  return data?.tracks?.map((track) => {
-    return processTrackData(track);
-  }, []);
+  return Promise.all(
+    data?.tracks?.map(async (track) => {
+      return await processTrackData(track);
+    })
+  );
 }
 
 export async function getArtistInfo(id) {

@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import { isTrackInFavorites } from "../playlist/playlist.model.js";
 
 const ArtistSchema = new mongoose.Schema(
   {
@@ -13,7 +14,7 @@ const TrackSchema = new mongoose.Schema(
   {
     _id: { type: String },
     name: { type: String, required: true },
-    duration: { type: String },
+    duration: { type: Number },
     artists: [ArtistSchema],
     album: {
       id: { type: String, required: true },
@@ -30,6 +31,10 @@ const TrackSchema = new mongoose.Schema(
 TrackSchema.virtual("id").get(function () {
   return this._id;
 });
+
+TrackSchema.virtual("liked").get(async function () {
+  return await isTrackInFavorites(this._id)
+})
 
 TrackSchema.set("toJSON", { virtuals: true });
 TrackSchema.set("toObject", { virtuals: true });

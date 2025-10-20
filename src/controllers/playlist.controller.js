@@ -9,17 +9,21 @@ import {
   getPlaylistTracks,
   removeTrackFromPlaylist,
 } from "../models/playlist/playlist.model.js";
+import PlaylistType from "../enums/playlistTypes.js";
 
 export const handleCreatePlaylist = catchAsyncError(async (req, res, next) => {
   const { name, description } = req.body;
+  const image = req?.file ? req.file.filename : null;
+  console.log(image);
 
   if (!name)
     return next(new AppError("Please provide all required fields.", 400));
 
   const playlist = await createPlaylist({
-    user: "68f14e66546cba092a5f5e6f",
+    user: "68f4047e8ea6aee8ad9c34cf",
     name,
     description,
+    image,
   });
 
   return res.status(201).json({
@@ -59,6 +63,12 @@ export const handleAddTracksToPlaylist = catchAsyncError(
   }
 );
 
+export const handleAddTracksToFavoritePlaylist = catchAsyncError(
+  async (req, res, next) => {
+    const { tracks } = req.body;
+  }
+);
+
 export const handleRemoveTrackFromPlaylist = catchAsyncError(
   async (req, res, next) => {
     const { id, trackId } = req.params;
@@ -77,15 +87,10 @@ export const handleRemoveTrackFromPlaylist = catchAsyncError(
 
 export const handleGetAllUserPlaylists = catchAsyncError(
   async (req, res, next) => {
-    const { userId } = req.query;
-
-    if (!userId)
-      return next(new AppError("Please provide all required fields.", 400));
-
     return res.status(200).json({
       status: "success",
       data: {
-        playlists: await getAllUserPlaylists(userId),
+        playlists: await getAllUserPlaylists("68f4047e8ea6aee8ad9c34cf"),
       },
     });
   }
@@ -98,16 +103,26 @@ export const handleGetPlaylistTracks = catchAsyncError(
     if (!id && !type)
       return next(new AppError("Please provide all required fields.", 400));
 
+    if (type === PlaylistType.CUSTOM)
+      return next(
+        new AppError(
+          "Please provide playlist id to access custom playlists.",
+          400
+        )
+      );
+
     const {
       total,
       page: currentPage,
       limit,
       tracks,
-    } = id ? await getPlaylistTracks(id, page) : await getDefaultPlaylistTracks(type, page);
+    } = id
+      ? await getPlaylistTracks(id, page)
+      : await getDefaultPlaylistTracks(type, page);
 
     return res.status(200).json({
       status: "success",
-      nextPage: currentPage + 1,
+      nextPage: Number(currentPage) + 1,
       hasNext: currentPage * limit < total,
       results: {
         tracks,

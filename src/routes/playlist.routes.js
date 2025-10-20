@@ -8,11 +8,12 @@ import {
   handleGetPlaylistTracks,
   handleRemoveTrackFromPlaylist,
 } from "../controllers/playlist.controller.js";
+import upload from "../config/multer.js";
 
 const playlistRouter = express.Router();
 
 playlistRouter.get("/", handleGetAllUserPlaylists);
-playlistRouter.post("/", handleCreatePlaylist);
+playlistRouter.post("/", upload.single("image") , handleCreatePlaylist);
 playlistRouter.delete("/:id", handleDeletePlaylist);
 playlistRouter.get("/tracks", handleGetPlaylistTracks);
 playlistRouter.post("/:id/tracks", handleAddTracksToPlaylist);

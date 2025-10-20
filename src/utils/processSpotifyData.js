@@ -1,16 +1,21 @@
-function processTrackData(track) {
+import { getTrackPlaylists, isTrackInFavorites } from "../models/playlist/playlist.model.js";
+
+async function processTrackData(track) {
   const album = Object.keys(track.album ?? []).length
     ? processAlbumData(track.album)
     : null;
 
+
   return {
     id: track.id,
     name: track.name,
+    liked: await isTrackInFavorites(track.id),
     duration: track.duration_ms ?? null,
     artists: track.artists.map(processArtistData),
     album,
-    thumbnail: album ? album.thumbnail : track.images?.[0]?.url ?? null,
+    thumbnail: album ? album.thumbnail : (track.images?.[0]?.url ?? null),
     type: "track",
+    playlists: await getTrackPlaylists(track.id)
   };
 }
 
