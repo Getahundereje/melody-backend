@@ -1,5 +1,5 @@
 {
-  "issueDate": "Week of October 18, 2025",
+  "issueDate": "Week of October 25, 2025",
   "albums": [
     {
       "name": "The Life of a Showgirl",
@@ -89,21 +89,6 @@
       "type": "album"
     },
     {
-      "name": "DeBÍ TiRAR MáS FOToS",
-      "id": "5K79FLRUCSysQnVESLcTdb",
-      "artists": [
-        {
-          "id": "4q3ewBCX7sLwd24euuV69X",
-          "name": "Bad Bunny",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2025-01-05",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "type": "album"
-    },
-    {
       "name": "The Art of Loving",
       "id": "0l8zYqoUeBYg47Gmevq9HZ",
       "artists": [
@@ -119,18 +104,18 @@
       "type": "album"
     },
     {
-      "name": "You'll Be Alright, Kid",
-      "id": "6FyViQsaJnS1e5if4ouzGK",
+      "name": "DeBÍ TiRAR MáS FOToS",
+      "id": "5K79FLRUCSysQnVESLcTdb",
       "artists": [
         {
-          "id": "0fTSzq9jAh4c36UVb4V7CB",
-          "name": "Alex Warren",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2025-07-18",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273b0a2d7a2d8406a4a72a92d5c",
+      "release_date": "2025-01-05",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
       "type": "album"
     },
     {
@@ -149,6 +134,21 @@
       "type": "album"
     },
     {
+      "name": "You'll Be Alright, Kid",
+      "id": "6FyViQsaJnS1e5if4ouzGK",
+      "artists": [
+        {
+          "id": "0fTSzq9jAh4c36UVb4V7CB",
+          "name": "Alex Warren",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2025-07-18",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273b0a2d7a2d8406a4a72a92d5c",
+      "type": "album"
+    },
+    {
       "name": "One Thing At A Time",
       "id": "0rnd3h2dc82L4gTjW6Vfoq",
       "artists": [
@@ -164,48 +164,18 @@
       "type": "album"
     },
     {
-      "name": "Short n' Sweet",
-      "id": "3iPSVi54hsacKKl1xIR2eH",
+      "name": "?",
+      "id": "2Ti79nwTsont5ZHfdxIzAm",
       "artists": [
         {
-          "id": "74KM79TiuVKeVCqs8QtB0B",
-          "name": "Sabrina Carpenter",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2024-08-23",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
-      "type": "album"
-    },
-    {
-      "name": "Un Verano Sin Ti",
-      "id": "3RQQmkQEvNCY4prGKE6oc5",
-      "artists": [
-        {
-          "id": "4q3ewBCX7sLwd24euuV69X",
-          "name": "Bad Bunny",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2022-05-06",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
-      "type": "album"
-    },
-    {
-      "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-      "id": "5H7ixXZfsNMGbIE5OBSpcb",
-      "artists": [
-        {
-          "id": "06HL4z0CvFAxyc27GXpf02",
-          "name": "Taylor Swift",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2024-04-19",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa",
+      "release_date": "2018-03-16",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
       "type": "album"
     },
     {
@@ -224,6 +194,36 @@
       "type": "album"
     },
     {
+      "name": "Melt",
+      "id": "4Arf0rqtYsnJ5hhscuqCLB",
+      "artists": [
+        {
+          "id": "0oXhGlRUQ8aVTx8eO4MoMT",
+          "name": "Not for Radio",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2025-10-10",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2730c4bc0803f73583c201d312d",
+      "type": "album"
+    },
+    {
+      "name": "Short n' Sweet",
+      "id": "3iPSVi54hsacKKl1xIR2eH",
+      "artists": [
+        {
+          "id": "74KM79TiuVKeVCqs8QtB0B",
+          "name": "Sabrina Carpenter",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2024-08-23",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
+      "type": "album"
+    },
+    {
       "name": "So Close To What",
       "id": "6KaEpgeZQF6ZVVAmSoZUrb",
       "artists": [
@@ -236,51 +236,6 @@
       ],
       "release_date": "2025-02-24",
       "thumbnail": "https://i.scdn.co/image/ab67616d0000b2737e8ac0e1145f9543812df95c",
-      "type": "album"
-    },
-    {
-      "name": "I Barely Know Her",
-      "id": "7mvXPtV4jvA1hp5Wx2FAJA",
-      "artists": [
-        {
-          "id": "4G9NDjRyZFDlJKMRL8hx3S",
-          "name": "sombr",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2025-08-22",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273d2eb391e0b3c3bc21c127db6",
-      "type": "album"
-    },
-    {
-      "name": "Dangerous: The Double Album",
-      "id": "1AlJetbC3AI9aGsiGn0O6T",
-      "artists": [
-        {
-          "id": "4oUHIQIBe0LHzYfvXNW4QM",
-          "name": "Morgan Wallen",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2021-01-08",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273f26e16c256f7042d8f6a814b",
-      "type": "album"
-    },
-    {
-      "name": "SWAG II",
-      "id": "2KrREEyHxkdFGYAd1DmMdS",
-      "artists": [
-        {
-          "id": "1uNFoZAHBGtllmzznpCI3s",
-          "name": "Justin Bieber",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2025-09-05",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273a958d093e94944dd0e7258b2",
       "type": "album"
     },
     {
@@ -299,6 +254,36 @@
       "type": "album"
     },
     {
+      "name": "Dangerous: The Double Album (Bonus)",
+      "id": "1e2J1wYxM6KcpEHFDVXBke",
+      "artists": [
+        {
+          "id": "4oUHIQIBe0LHzYfvXNW4QM",
+          "name": "Morgan Wallen",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2021-01-29",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273c67b7f9895a3af5e4b6ffada",
+      "type": "album"
+    },
+    {
+      "name": "I Barely Know Her",
+      "id": "7mvXPtV4jvA1hp5Wx2FAJA",
+      "artists": [
+        {
+          "id": "4G9NDjRyZFDlJKMRL8hx3S",
+          "name": "sombr",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2025-08-22",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273d2eb391e0b3c3bc21c127db6",
+      "type": "album"
+    },
+    {
       "name": "Rumours",
       "id": "1bt6q2SruMsBtcerNVtpZB",
       "artists": [
@@ -314,38 +299,8 @@
       "type": "album"
     },
     {
-      "name": "MASA",
-      "id": "2jkrBfnQoV4eDTaoXWnVhg",
-      "artists": [
-        {
-          "id": "7wlFDEWiM5OoIAt8RSli8b",
-          "name": "YoungBoy Never Broke Again",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2025-07-25",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273808795efa3a6f246a83cd96f",
-      "type": "album"
-    },
-    {
-      "name": "Vie",
-      "id": "1cqqIH16XzBnDchrXJ9Enf",
-      "artists": [
-        {
-          "id": "5cj0lLjcoR7YOSnhnX0Po5",
-          "name": "Doja Cat",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2025-09-26",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273f99c9248388dd77f24276a7c",
-      "type": "album"
-    },
-    {
-      "name": "folklore",
-      "id": "2fenSS68JI1h4Fo296JfGr",
+      "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+      "id": "5H7ixXZfsNMGbIE5OBSpcb",
       "artists": [
         {
           "id": "06HL4z0CvFAxyc27GXpf02",
@@ -354,38 +309,38 @@
           "type": "artist"
         }
       ],
-      "release_date": "2020-07-24",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+      "release_date": "2024-04-19",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa",
       "type": "album"
     },
     {
-      "name": "Take Care (Deluxe)",
-      "id": "6X1x82kppWZmDzlXXK3y3q",
+      "name": "30 Number One Hits",
+      "id": "1UXx09tGWubXtQI47GilH4",
       "artists": [
         {
-          "id": "3TVXtAsR1Inumwj472S9r4",
-          "name": "Drake",
+          "id": "3FfvYsEGaIb52QPXhg4DcH",
+          "name": "Jason Aldean",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2011-11-15",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550",
+      "release_date": "2025-10-10",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2732b1f70354f07304c72a7b1e8",
       "type": "album"
     },
     {
-      "name": "Hamilton (Original Broadway Cast Recording)",
-      "id": "1kCHru7uhxBUdzkm4gzRQc",
+      "name": "Un Verano Sin Ti",
+      "id": "3RQQmkQEvNCY4prGKE6oc5",
       "artists": [
         {
-          "id": "4aXXDj9aZnlshx7mzj3W1N",
-          "name": "Lin-Manuel Miranda",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2015-09-25",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008",
+      "release_date": "2022-05-06",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
       "type": "album"
     },
     {
@@ -404,18 +359,63 @@
       "type": "album"
     },
     {
-      "name": "UY SCUTI",
-      "id": "1PokOUCgfAho8snnJLTkMD",
+      "name": "MASA",
+      "id": "2jkrBfnQoV4eDTaoXWnVhg",
       "artists": [
         {
-          "id": "50co4Is1HCEo8bhOyUWKpn",
-          "name": "Young Thug",
+          "id": "7wlFDEWiM5OoIAt8RSli8b",
+          "name": "YoungBoy Never Broke Again",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2025-09-26",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273bb4679ba1e3796ffad899a75",
+      "release_date": "2025-07-25",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273808795efa3a6f246a83cd96f",
+      "type": "album"
+    },
+    {
+      "name": "Hamilton (Original Broadway Cast Recording)",
+      "id": "1kCHru7uhxBUdzkm4gzRQc",
+      "artists": [
+        {
+          "id": "4aXXDj9aZnlshx7mzj3W1N",
+          "name": "Lin-Manuel Miranda",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2015-09-25",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008",
+      "type": "album"
+    },
+    {
+      "name": "Take Care (Deluxe)",
+      "id": "6X1x82kppWZmDzlXXK3y3q",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2011-11-15",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550",
+      "type": "album"
+    },
+    {
+      "name": "SWAG II",
+      "id": "2KrREEyHxkdFGYAd1DmMdS",
+      "artists": [
+        {
+          "id": "1uNFoZAHBGtllmzznpCI3s",
+          "name": "Justin Bieber",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2025-09-05",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273a958d093e94944dd0e7258b2",
       "type": "album"
     },
     {
@@ -431,6 +431,36 @@
       ],
       "release_date": "2025-08-08",
       "thumbnail": "https://i.scdn.co/image/ab67616d0000b2737fd9dc3a93bd4fa2be8ed715",
+      "type": "album"
+    },
+    {
+      "name": "BEAUTIFUL CHAOS",
+      "id": "7zDBcYSeMAVESJXnVJnzM4",
+      "artists": [
+        {
+          "id": "3c0gDdb9lhnHGFtP4prQpn",
+          "name": "KATSEYE",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2025-06-26",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2739b80360cc75177c9f7cd3990",
+      "type": "album"
+    },
+    {
+      "name": "Ethiopian Orthodox Mezmur",
+      "id": "5oU4RLmQTCMd3u3bZ7xolY",
+      "artists": [
+        {
+          "id": "3oJJeobegGJAhoKSrt2hCL",
+          "name": "Gebre Yohannes",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2020-02-05",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273cd339b8ef168eaae5791c491",
       "type": "album"
     },
     {
@@ -455,53 +485,8 @@
       "type": "album"
     },
     {
-      "name": "BEAUTIFUL CHAOS",
-      "id": "7zDBcYSeMAVESJXnVJnzM4",
-      "artists": [
-        {
-          "id": "3c0gDdb9lhnHGFtP4prQpn",
-          "name": "KATSEYE",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2025-06-26",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2739b80360cc75177c9f7cd3990",
-      "type": "album"
-    },
-    {
-      "name": "The Best Oldies Collection ( Ethiopian Contemporary Music)",
-      "id": "6xV9X1s7atthqzapBMKks4",
-      "artists": [
-        {
-          "id": "2zbBrFWExhMiuYzib5ORCE",
-          "name": "Bezuayehu Demissie",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2007-08-22",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273a7fb48fc8ce5edef4c728fb1",
-      "type": "album"
-    },
-    {
-      "name": "Where I've Been, Isn't Where I'm Going",
-      "id": "0DLvFVIfwt3OHdK9kGeEM3",
-      "artists": [
-        {
-          "id": "3y2cIKLjiOlp1Np37WiUdH",
-          "name": "Shaboozey",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2024-05-31",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273efa97e80fdb012456a40532c",
-      "type": "album"
-    },
-    {
-      "name": "Midnights",
-      "id": "151w1FgRZfnKZA9FEcg9Z3",
+      "name": "folklore",
+      "id": "2fenSS68JI1h4Fo296JfGr",
       "artists": [
         {
           "id": "06HL4z0CvFAxyc27GXpf02",
@@ -510,23 +495,23 @@
           "type": "artist"
         }
       ],
-      "release_date": "2022-10-21",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+      "release_date": "2020-07-24",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
       "type": "album"
     },
     {
-      "name": "GNX",
-      "id": "1Ss0ArMRr91m83mOgRBjSZ",
+      "name": "Where I've Been, Isn't Where I'm Going",
+      "id": "5lL9OB0cw7ARy9LYx7FKzh",
       "artists": [
         {
-          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
-          "name": "Kendrick Lamar",
+          "id": "3y2cIKLjiOlp1Np37WiUdH",
+          "name": "Shaboozey",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2024-11-21",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531",
+      "release_date": "2024-05-30",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2736eca6c64448f86e9c052e59c",
       "type": "album"
     },
     {
@@ -545,78 +530,18 @@
       "type": "album"
     },
     {
-      "name": "Lover",
-      "id": "1NAmidJlEaVgA3MpcPFYGq",
+      "name": "GNX",
+      "id": "0hvT3yIEysuuvkK73vgdcW",
       "artists": [
         {
-          "id": "06HL4z0CvFAxyc27GXpf02",
-          "name": "Taylor Swift",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2019-08-23",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
-      "type": "album"
-    },
-    {
-      "name": "BRAT",
-      "id": "2lIZef4lzdvZkiiCzvPKj7",
-      "artists": [
-        {
-          "id": "25uiPmTg16RbhZWAqwLBy5",
-          "name": "Charli xcx",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2024-06-07",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273c5c6772d1d98b2d0f3a69e37",
-      "type": "album"
-    },
-    {
-      "name": "The Diamond Collection (Deluxe)",
-      "id": "0HeDKsZqyskYWkoHmXObsv",
-      "artists": [
-        {
-          "id": "246dkjvS1zLTtiykXe5h60",
-          "name": "Post Malone",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2023-04-21",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273891337202ac8b6fc09991b9c",
-      "type": "album"
-    },
-    {
-      "name": "I Hope You're Happy",
-      "id": "4llPc4sijqW69zcet6TAEC",
-      "artists": [
-        {
-          "id": "6qxpnaukVayrQn6ViNvu9I",
-          "name": "BigXthaPlug",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2025-08-22",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273077790f3c84f48b3ce264818",
-      "type": "album"
-    },
-    {
-      "name": "MAYHEM",
-      "id": "2MHUaRi9OCyTN02SoyRRBJ",
-      "artists": [
-        {
-          "id": "1HY2Jd0NmPuamShAr6KMms",
-          "name": "Lady Gaga",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2025-03-07",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273b0860cf0a98e09663c82290c",
+      "release_date": "2024-11-22",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
       "type": "album"
     },
     {
@@ -635,6 +560,51 @@
       "type": "album"
     },
     {
+      "name": "A Matter of Time",
+      "id": "5rMOCuiWWbEBcHaKM69Hmv",
+      "artists": [
+        {
+          "id": "7gW0r5CkdEUMm42w9XpyZO",
+          "name": "Laufey",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2025-08-22",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2738f68f6e65c1cfd36bb21561c",
+      "type": "album"
+    },
+    {
+      "name": "Midnights",
+      "id": "151w1FgRZfnKZA9FEcg9Z3",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2022-10-21",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+      "type": "album"
+    },
+    {
+      "name": "MAYHEM",
+      "id": "2MHUaRi9OCyTN02SoyRRBJ",
+      "artists": [
+        {
+          "id": "1HY2Jd0NmPuamShAr6KMms",
+          "name": "Lady Gaga",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2025-03-07",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273b0860cf0a98e09663c82290c",
+      "type": "album"
+    },
+    {
       "name": "111XPANTIA",
       "id": "1JpJzuM4uncCfCimVozkmy",
       "artists": [
@@ -647,6 +617,81 @@
       ],
       "release_date": "2025-05-02",
       "thumbnail": "https://i.scdn.co/image/ab67616d0000b2732a2f9ea25cf65b5fb744b604",
+      "type": "album"
+    },
+    {
+      "name": "I Hope You're Happy",
+      "id": "4llPc4sijqW69zcet6TAEC",
+      "artists": [
+        {
+          "id": "6qxpnaukVayrQn6ViNvu9I",
+          "name": "BigXthaPlug",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2025-08-22",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273077790f3c84f48b3ce264818",
+      "type": "album"
+    },
+    {
+      "name": "Curtain Call: The Hits",
+      "id": "1zUY4PAFrNUOCeaEBrEHzh",
+      "artists": [
+        {
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2005-12-06",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733686f349e17589993adacddd",
+      "type": "album"
+    },
+    {
+      "name": "MUSIC",
+      "id": "0fSfkmx0tdPqFYkJuNX74a",
+      "artists": [
+        {
+          "id": "699OTQXzgjhIYAHMy9RyPD",
+          "name": "Playboi Carti",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2025-03-14",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "type": "album"
+    },
+    {
+      "name": "Lover",
+      "id": "1NAmidJlEaVgA3MpcPFYGq",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2019-08-23",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+      "type": "album"
+    },
+    {
+      "name": "Diamonds (Deluxe)",
+      "id": "45F4Pmp3EJi3T6qYonm4Ml",
+      "artists": [
+        {
+          "id": "3PhoLpVuITZKcymswpck5b",
+          "name": "Elton John",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2017-11-10",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273904e306cf32fa5dc93dd927a",
       "type": "album"
     },
     {
@@ -680,156 +725,6 @@
       "type": "album"
     },
     {
-      "name": "Curtain Call: The Hits",
-      "id": "1zUY4PAFrNUOCeaEBrEHzh",
-      "artists": [
-        {
-          "id": "7dGJo4pcD2V6oG8kP0tJRR",
-          "name": "Eminem",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2005-12-06",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733686f349e17589993adacddd",
-      "type": "album"
-    },
-    {
-      "name": "Breach",
-      "id": "1El3k8dU3sKyoGUeuyrolH",
-      "artists": [
-        {
-          "id": "3YQKmKGau1PzlVlkL1iodx",
-          "name": "Twenty One Pilots",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2025-09-12",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27378cba6a1edfe4235def632ed",
-      "type": "album"
-    },
-    {
-      "name": "KARMA",
-      "id": "3wqskwruUGJHC4yHbo7nxc",
-      "artists": [
-        {
-          "id": "2dIgFjalVxs4ThymZ67YCE",
-          "name": "Stray Kids",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2025-08-22",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734003b4bfaa44b5fd52b00be2",
-      "type": "album"
-    },
-    {
-      "name": "reputation",
-      "id": "6DEjYFkNZh67HP7R9PSZvv",
-      "artists": [
-        {
-          "id": "06HL4z0CvFAxyc27GXpf02",
-          "name": "Taylor Swift",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2017-11-10",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b",
-      "type": "album"
-    },
-    {
-      "name": "MUSIC",
-      "id": "0fSfkmx0tdPqFYkJuNX74a",
-      "artists": [
-        {
-          "id": "699OTQXzgjhIYAHMy9RyPD",
-          "name": "Playboi Carti",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2025-03-14",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-      "type": "album"
-    },
-    {
-      "name": "Fireworks & Rollerblades",
-      "id": "168CdR21lfn0TTyw1Pkdcm",
-      "artists": [
-        {
-          "id": "22wbnEMDvgVIAGdFeek6ET",
-          "name": "Benson Boone",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2024-04-05",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40",
-      "type": "album"
-    },
-    {
-      "name": "Diamonds (Deluxe)",
-      "id": "45F4Pmp3EJi3T6qYonm4Ml",
-      "artists": [
-        {
-          "id": "3PhoLpVuITZKcymswpck5b",
-          "name": "Elton John",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2017-11-10",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273904e306cf32fa5dc93dd927a",
-      "type": "album"
-    },
-    {
-      "name": "Solace & The Vices",
-      "id": "3Xk1Mz1aaon4cx1f91Z00n",
-      "artists": [
-        {
-          "id": "2EMAnMvWE2eb56ToJVfCWs",
-          "name": "Bryson Tiller",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2025-10-02",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2735b01657fd65722737d47263a",
-      "type": "album"
-    },
-    {
-      "name": "A Matter of Time",
-      "id": "5rMOCuiWWbEBcHaKM69Hmv",
-      "artists": [
-        {
-          "id": "7gW0r5CkdEUMm42w9XpyZO",
-          "name": "Laufey",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2025-08-22",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2738f68f6e65c1cfd36bb21561c",
-      "type": "album"
-    },
-    {
-      "name": "For All The Dogs",
-      "id": "4czdORdCWP9umpbhFXK2fW",
-      "artists": [
-        {
-          "id": "3TVXtAsR1Inumwj472S9r4",
-          "name": "Drake",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2023-10-06",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
-      "type": "album"
-    },
-    {
       "name": "The Secret of Us (Deluxe)",
       "id": "0hBRqPYPXhr1RkTDG3n4Mk",
       "artists": [
@@ -845,18 +740,78 @@
       "type": "album"
     },
     {
-      "name": "Views",
-      "id": "40GMAhriYJRO1rsY4YdrZb",
+      "name": "BRAT",
+      "id": "2lIZef4lzdvZkiiCzvPKj7",
       "artists": [
         {
-          "id": "3TVXtAsR1Inumwj472S9r4",
-          "name": "Drake",
+          "id": "25uiPmTg16RbhZWAqwLBy5",
+          "name": "Charli xcx",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2016-05-06",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+      "release_date": "2024-06-07",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273c5c6772d1d98b2d0f3a69e37",
+      "type": "album"
+    },
+    {
+      "name": "eternal sunshine",
+      "id": "5EYKrEDnKhhcNxGedaRQeK",
+      "artists": [
+        {
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2024-03-08",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
+      "type": "album"
+    },
+    {
+      "name": "Karma 4",
+      "id": "7EhhvSYad20sjiKKI5JnRQ",
+      "artists": [
+        {
+          "id": "7e10JUMF7MJmmwYpnTSMI5",
+          "name": "Dave East",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2025-10-15",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27357c7a075c1bcd9c4e35f7b0f",
+      "type": "album"
+    },
+    {
+      "name": "Vie",
+      "id": "1cqqIH16XzBnDchrXJ9Enf",
+      "artists": [
+        {
+          "id": "5cj0lLjcoR7YOSnhnX0Po5",
+          "name": "Doja Cat",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2025-09-26",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273f99c9248388dd77f24276a7c",
+      "type": "album"
+    },
+    {
+      "name": "Thriller",
+      "id": "2ANVost0y2y52ema1E9xAZ",
+      "artists": [
+        {
+          "id": "3fMbdgg4jU18AjLCKBhRSm",
+          "name": "Michael Jackson",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "1982-11-30",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
       "type": "album"
     },
     {
@@ -875,48 +830,18 @@
       "type": "album"
     },
     {
-      "name": "ALREADY LEGEND.",
-      "id": "6zdPFeeX9KAITF9r84BLqg",
+      "name": "Fireworks & Rollerblades",
+      "id": "168CdR21lfn0TTyw1Pkdcm",
       "artists": [
         {
-          "id": "5Berubt6ysOy2LCMyqhmXP",
-          "name": "YFN Lucci",
+          "id": "22wbnEMDvgVIAGdFeek6ET",
+          "name": "Benson Boone",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2025-09-26",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734b83fba4512756f33efaf40b",
-      "type": "album"
-    },
-    {
-      "name": "ሁሉን ታውቃለህ",
-      "id": "7b6TUYSm9E38ZjS2Q2IALk",
-      "artists": [
-        {
-          "id": "6JjI2kBTVvFsZTBar1fwm3",
-          "name": "Workneh Alaro",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2024-12-31",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734c743be5edf189e85a60e54c",
-      "type": "album"
-    },
-    {
-      "name": "HEARTS SOLD SEPARATELY",
-      "id": "0gZVv6enPZhdDz7vrzwhZP",
-      "artists": [
-        {
-          "id": "7HO5fOXE4gh3lzZn64tX2E",
-          "name": "Mariah the Scientist",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2025-08-22",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273f06712a654231b8c30a80d18",
+      "release_date": "2024-04-05",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40",
       "type": "album"
     },
     {
@@ -935,18 +860,18 @@
       "type": "album"
     },
     {
-      "name": "Hurry Up Tomorrow",
-      "id": "3OxfaVgvTxUTy7276t7SPU",
+      "name": "Views",
+      "id": "40GMAhriYJRO1rsY4YdrZb",
       "artists": [
         {
-          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
-          "name": "The Weeknd",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2025-01-31",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273982320da137d0de34410df61",
+      "release_date": "2016-05-06",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
       "type": "album"
     },
     {
@@ -980,78 +905,18 @@
       "type": "album"
     },
     {
-      "name": "eternal sunshine",
-      "id": "5EYKrEDnKhhcNxGedaRQeK",
+      "name": "For All The Dogs",
+      "id": "4czdORdCWP9umpbhFXK2fW",
       "artists": [
         {
-          "id": "66CXWjxzNUsdJxJ2JdwvnR",
-          "name": "Ariana Grande",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2024-03-08",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
-      "type": "album"
-    },
-    {
-      "name": "ሁሉን ታውቃለህ",
-      "id": "7b6TUYSm9E38ZjS2Q2IALk",
-      "artists": [
-        {
-          "id": "6JjI2kBTVvFsZTBar1fwm3",
-          "name": "Workneh Alaro",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2024-12-31",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734c743be5edf189e85a60e54c",
-      "type": "album"
-    },
-    {
-      "name": "Thriller",
-      "id": "2ANVost0y2y52ema1E9xAZ",
-      "artists": [
-        {
-          "id": "3fMbdgg4jU18AjLCKBhRSm",
-          "name": "Michael Jackson",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "1982-11-30",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
-      "type": "album"
-    },
-    {
-      "name": "GUTS",
-      "id": "1xJHno7SmdVtZAtXbdbDZp",
-      "artists": [
-        {
-          "id": "1McMsnEElThX1knmY4oliG",
-          "name": "Olivia Rodrigo",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2023-09-08",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
-      "type": "album"
-    },
-    {
-      "name": "I've Tried Everything But Therapy (Part 1)",
-      "id": "7nacKlk586eLRBSIsrk9DB",
-      "artists": [
-        {
-          "id": "33qOK5uJ8AR2xuQQAhHump",
-          "name": "Teddy Swims",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2023-09-15",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace",
+      "release_date": "2023-10-06",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
       "type": "album"
     },
     {
@@ -1070,18 +935,63 @@
       "type": "album"
     },
     {
-      "name": "Certified Lover Boy",
-      "id": "3SpBlxme9WbeQdI9kx7KAV",
+      "name": "GUTS",
+      "id": "1xJHno7SmdVtZAtXbdbDZp",
       "artists": [
         {
-          "id": "3TVXtAsR1Inumwj472S9r4",
-          "name": "Drake",
+          "id": "1McMsnEElThX1knmY4oliG",
+          "name": "Olivia Rodrigo",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2021-09-03",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+      "release_date": "2023-09-08",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+      "type": "album"
+    },
+    {
+      "name": "I've Tried Everything But Therapy (Part 2)",
+      "id": "6kvSdLjli85tMwW4jlCN0o",
+      "artists": [
+        {
+          "id": "33qOK5uJ8AR2xuQQAhHump",
+          "name": "Teddy Swims",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2025-01-24",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27370b88fc5a2e13bc5440d947c",
+      "type": "album"
+    },
+    {
+      "name": "፩ ምዕራፍ, Vol. 4",
+      "id": "3GPCNOv5DtRuoWA3vSO9kv",
+      "artists": [
+        {
+          "id": "0WmCibDrNdf6slye3hpN0a",
+          "name": "Teddy Tadesse",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2023-09-07",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2739314e9738a6df2c9262b3e7a",
+      "type": "album"
+    },
+    {
+      "name": "Hurry Up Tomorrow",
+      "id": "3OxfaVgvTxUTy7276t7SPU",
+      "artists": [
+        {
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2025-01-31",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273982320da137d0de34410df61",
       "type": "album"
     },
     {
@@ -1100,63 +1010,108 @@
       "type": "album"
     },
     {
-      "name": "F-1 Trillion",
-      "id": "4BbsHmXEghoPPevQjPnHXx",
+      "name": "Breach",
+      "id": "1El3k8dU3sKyoGUeuyrolH",
       "artists": [
         {
-          "id": "246dkjvS1zLTtiykXe5h60",
-          "name": "Post Malone",
+          "id": "3YQKmKGau1PzlVlkL1iodx",
+          "name": "Twenty One Pilots",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2024-08-15",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27388208159b1b3c69eefdeb2e0",
+      "release_date": "2025-09-12",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27378cba6a1edfe4235def632ed",
       "type": "album"
     },
     {
-      "name": "Greatest Hits Volume II",
-      "id": "0tFm46KzjtCgyyfD8iCaiJ",
+      "name": "Greatest Hits Vol. III",
+      "id": "1U7nSkYvppffXgcFGzqNS3",
       "artists": [
         {
-          "id": "4mxWe1mtYIYfP040G38yvS",
-          "name": "Alan Jackson",
+          "id": "6rJqqRce0Kvo2dJUXoHleC",
+          "name": "Alabama",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2003-10-09",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734dba85eab31b275e997a12d4",
+      "release_date": "1994-09-26",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273abef63e1fda93563b73e7f51",
       "type": "album"
     },
     {
-      "name": "Don't Mind If I Do",
-      "id": "5gAHdPbFLoKvpNsD7JK67D",
+      "name": "Ctrl",
+      "id": "76290XdXVF9rPzGdNRWdCh",
       "artists": [
         {
-          "id": "2QMsj4XJ7ne2hojxt6v5eb",
-          "name": "Riley Green",
+          "id": "7tYKF4w9nC0nq9CsPZTHyP",
+          "name": "SZA",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2024-10-18",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2732df2fe0ef24de5b3fe14731d",
+      "release_date": "2017-06-09",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
       "type": "album"
     },
     {
-      "name": "Zach Bryan",
-      "id": "6PbnGueEO6LGodPfvNldYf",
+      "name": "HEARTS SOLD SEPARATELY",
+      "id": "0gZVv6enPZhdDz7vrzwhZP",
       "artists": [
         {
-          "id": "40ZNYROS4zLfyyBSs2PGe2",
-          "name": "Zach Bryan",
+          "id": "7HO5fOXE4gh3lzZn64tX2E",
+          "name": "Mariah the Scientist",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2023-08-25",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef",
+      "release_date": "2025-08-22",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273f06712a654231b8c30a80d18",
+      "type": "album"
+    },
+    {
+      "name": "CxM 1st Mini Album ‘HYPE VIBES’",
+      "id": "4PxPsw7YFuzBaJZ3dHUV55",
+      "artists": [
+        {
+          "id": "7kjuLdYbtTkWBToMu2ebZN",
+          "name": "CxM",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2025-09-29",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273c6444ea9dded575739d01568",
+      "type": "album"
+    },
+    {
+      "name": "reputation",
+      "id": "6DEjYFkNZh67HP7R9PSZvv",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2017-11-10",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b",
+      "type": "album"
+    },
+    {
+      "name": "TRON: Ares (Original Motion Picture Soundtrack)",
+      "id": "47pjW3XDPW99NShtkeewxl",
+      "artists": [
+        {
+          "id": "0X380XXQSNBYuleKzav5UO",
+          "name": "Nine Inch Nails",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2025-09-19",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273634dd6856022a95ac7a7b385",
       "type": "album"
     },
     {
@@ -1175,48 +1130,63 @@
       "type": "album"
     },
     {
-      "name": "TAKE CARE",
-      "id": "6LU7SYL9BWAt3TgEK4DdAc",
+      "name": "Certified Lover Boy",
+      "id": "3SpBlxme9WbeQdI9kx7KAV",
       "artists": [
         {
-          "id": "6qxpnaukVayrQn6ViNvu9I",
-          "name": "BigXthaPlug",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2024-10-11",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273fed9afd601a1732fdae85ea8",
+      "release_date": "2021-09-03",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
       "type": "album"
     },
     {
-      "name": "Ctrl (Deluxe)",
-      "id": "6FKP2O0oOvZlDkF0gyTjiJ",
+      "name": "Don't Mind If I Do (Deluxe)",
+      "id": "1zYMNgeczOfopUj0mDK8Nx",
       "artists": [
         {
-          "id": "7tYKF4w9nC0nq9CsPZTHyP",
-          "name": "SZA",
+          "id": "2QMsj4XJ7ne2hojxt6v5eb",
+          "name": "Riley Green",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2022-06-09",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2731882add8fd275c04e322027d",
+      "release_date": "2025-08-29",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27376f66db15bb6c47ea9aa6c64",
       "type": "album"
     },
     {
-      "name": "Nevermind (Remastered)",
-      "id": "2UJcKiJxNryhL050F5Z1Fk",
+      "name": "Zach Bryan",
+      "id": "6PbnGueEO6LGodPfvNldYf",
       "artists": [
         {
-          "id": "6olE6TJLqED3rqDCT0FyPh",
-          "name": "Nirvana",
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "1991-09-26",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6",
+      "release_date": "2023-08-25",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273e5a25ed08d1e7e0fbb440cef",
+      "type": "album"
+    },
+    {
+      "name": "F-1 Trillion",
+      "id": "4BbsHmXEghoPPevQjPnHXx",
+      "artists": [
+        {
+          "id": "246dkjvS1zLTtiykXe5h60",
+          "name": "Post Malone",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2024-08-15",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27388208159b1b3c69eefdeb2e0",
       "type": "album"
     },
     {
@@ -1235,18 +1205,63 @@
       "type": "album"
     },
     {
-      "name": "Starboy",
-      "id": "2ODvWsOgouMbaA5xf0RkJe",
+      "name": "1989 (Deluxe)",
+      "id": "1yGbNOtRIgdIiGHOEBaZWf",
       "artists": [
         {
-          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
-          "name": "The Weeknd",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2016-11-25",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+      "release_date": "2014-01-01",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27352b2a3824413eefe9e33817a",
+      "type": "album"
+    },
+    {
+      "name": "psykotic",
+      "id": "1jlNLn16ksXKSVGSFGCeDQ",
+      "artists": [
+        {
+          "id": "0uj6QiPsPfK8ywLC7uwBE1",
+          "name": "OsamaSon",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2025-10-10",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273f08f912956daaea9fa34cb76",
+      "type": "album"
+    },
+    {
+      "name": "Nevermind (Remastered)",
+      "id": "2UJcKiJxNryhL050F5Z1Fk",
+      "artists": [
+        {
+          "id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "Nirvana",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "1991-09-26",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6",
+      "type": "album"
+    },
+    {
+      "name": "TAKE CARE",
+      "id": "6LU7SYL9BWAt3TgEK4DdAc",
+      "artists": [
+        {
+          "id": "6qxpnaukVayrQn6ViNvu9I",
+          "name": "BigXthaPlug",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2024-10-11",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273fed9afd601a1732fdae85ea8",
       "type": "album"
     },
     {
@@ -1265,51 +1280,6 @@
       "type": "album"
     },
     {
-      "name": "Doo-Wops & Hooligans (Deluxe)",
-      "id": "6i0YN36lXSSBWOzLE7Na6c",
-      "artists": [
-        {
-          "id": "0du5cEVh5yTK9QJze8zA0C",
-          "name": "Bruno Mars",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2010-05-11",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273c118a80baf133e3304efcfe4",
-      "type": "album"
-    },
-    {
-      "name": "Graduation",
-      "id": "4SZko61aMnmgvNhfhgTuD3",
-      "artists": [
-        {
-          "id": "5K4W6rqBFWDnAN6FQUkS6x",
-          "name": "Kanye West",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2007-09-11",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-      "type": "album"
-    },
-    {
-      "name": "Greatest Hits 2",
-      "id": "29CV29WnRRNEOOEy2uEcvi",
-      "artists": [
-        {
-          "id": "0rvjqX7ttXeg3mTy8Xscbt",
-          "name": "Journey",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2011",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273759e06b18b3f535278a2de0e",
-      "type": "album"
-    },
-    {
       "name": "Hybrid Theory",
       "id": "6PFPjumGRpZnBzqnDci6qJ",
       "artists": [
@@ -1322,36 +1292,6 @@
       ],
       "release_date": "2000-10-24",
       "thumbnail": "https://i.scdn.co/image/ab67616d0000b2732cd7568f8895a3c031c2e2fb",
-      "type": "album"
-    },
-    {
-      "name": "My Turn (Deluxe)",
-      "id": "6uhEg4ASZYLIilZFCBFy1r",
-      "artists": [
-        {
-          "id": "5f7VJjfbwm532GiveGC0ZK",
-          "name": "Lil Baby",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2020-05-01",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27376a4577dd654bf457a4ad1f8",
-      "type": "album"
-    },
-    {
-      "name": "Even In Arcadia",
-      "id": "1lS7FeRcSUuIGqyg99UGpj",
-      "artists": [
-        {
-          "id": "2n2RSaZqBuUUukhbLlpnE6",
-          "name": "Sleep Token",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2025-05-09",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2730e48dcb579fd8e59d0a3c218",
       "type": "album"
     },
     {
@@ -1370,33 +1310,18 @@
       "type": "album"
     },
     {
-      "name": "Traveller",
-      "id": "7lxHnls3yQNl8B9bILmHj7",
+      "name": "Hollywood's Bleeding",
+      "id": "4g1ZRSobMefqF6nelkgibi",
       "artists": [
         {
-          "id": "4YLtscXsxbVgi031ovDDdh",
-          "name": "Chris Stapleton",
+          "id": "246dkjvS1zLTtiykXe5h60",
+          "name": "Post Malone",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2015-05-04",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273540fc1d083eac5bcff8dad21",
-      "type": "album"
-    },
-    {
-      "name": "Good Girl Gone Bad: Reloaded",
-      "id": "3JSWZWeTHF4HDGt5Eozdy7",
-      "artists": [
-        {
-          "id": "5pKCCKE2ajJHZ9KAiaK11H",
-          "name": "Rihanna",
-          "thumbnail": null,
-          "type": "artist"
-        }
-      ],
-      "release_date": "2008-06-02",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98",
+      "release_date": "2019-09-06",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
       "type": "album"
     },
     {
@@ -1415,63 +1340,123 @@
       "type": "album"
     },
     {
-      "name": "DON'T TAP THE GLASS",
-      "id": "1jzv3jwZbt8lYfEtMjiD1R",
+      "name": "Starboy",
+      "id": "2ODvWsOgouMbaA5xf0RkJe",
       "artists": [
         {
-          "id": "4V8LLVI7PbaPR0K2TGSxFF",
-          "name": "Tyler, The Creator",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2025-07-21",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273979047951fa8b15df9f9e984",
+      "release_date": "2016-11-25",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
       "type": "album"
     },
     {
-      "name": "Own Worst Enemy",
-      "id": "5Eq8cXCIiVpkQUwE9KajSv",
+      "name": "Infinite",
+      "id": "6vmyn1RL0oHkJhXM9hG7m3",
       "artists": [
         {
-          "id": "5jG6uRqinuI83luutMpW6y",
-          "name": "Gavin Adcock",
+          "id": "6O2zJ0tId7g07yzHtX0yap",
+          "name": "Mobb Deep",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2025-08-15",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2731e188bfa572838eb17355da1",
+      "release_date": "2025-10-10",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273bee8d084f4008d24d753e15a",
       "type": "album"
     },
     {
-      "name": "Cosa Nuestra",
-      "id": "0aX0UXrHG2ceYIxTQcqJdA",
+      "name": "Graduation",
+      "id": "4SZko61aMnmgvNhfhgTuD3",
       "artists": [
         {
-          "id": "1mcTU81TzQhprhouKaTkpq",
-          "name": "Rauw Alejandro",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2024-11-15",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856",
+      "release_date": "2007-09-11",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
       "type": "album"
     },
     {
-      "name": "The Great American Bar Scene",
-      "id": "3w7pEn5Ai1DCRG2FqFNIbB",
+      "name": "Doo-Wops & Hooligans (Deluxe)",
+      "id": "6i0YN36lXSSBWOzLE7Na6c",
       "artists": [
         {
-          "id": "40ZNYROS4zLfyyBSs2PGe2",
-          "name": "Zach Bryan",
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2024-07-04",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2731aec5d092c3c6184cd518d5d",
+      "release_date": "2010-05-11",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273c118a80baf133e3304efcfe4",
+      "type": "album"
+    },
+    {
+      "name": "Greatest Hits",
+      "id": "0LfM3PGkXE6KvJEE1HkOnz",
+      "artists": [
+        {
+          "id": "08GQAI4eElDnROBrJRGE0X",
+          "name": "Fleetwood Mac",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "1988-11-21",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273813da91820fd194cbee5bdce",
+      "type": "album"
+    },
+    {
+      "name": "Traveller",
+      "id": "7lxHnls3yQNl8B9bILmHj7",
+      "artists": [
+        {
+          "id": "4YLtscXsxbVgi031ovDDdh",
+          "name": "Chris Stapleton",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2015-05-04",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273540fc1d083eac5bcff8dad21",
+      "type": "album"
+    },
+    {
+      "name": "Journey's Greatest Hits",
+      "id": "4RggYxkf40auRlIEyjBiXo",
+      "artists": [
+        {
+          "id": "0rvjqX7ttXeg3mTy8Xscbt",
+          "name": "Journey",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "1988-11-29",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2735cf430d56b75201a80d30e7f",
+      "type": "album"
+    },
+    {
+      "name": "My Turn (Deluxe)",
+      "id": "6uhEg4ASZYLIilZFCBFy1r",
+      "artists": [
+        {
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2020-05-01",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27376a4577dd654bf457a4ad1f8",
       "type": "album"
     },
     {
@@ -1490,18 +1475,18 @@
       "type": "album"
     },
     {
-      "name": "Greatest Hits",
-      "id": "7paOpVZ35xmBn9ijROCG5Q",
+      "name": "Good Girl Gone Bad: Reloaded",
+      "id": "3JSWZWeTHF4HDGt5Eozdy7",
       "artists": [
         {
-          "id": "43sZBwHjahUvgbx1WNIkIz",
-          "name": "Creed",
+          "id": "5pKCCKE2ajJHZ9KAiaK11H",
+          "name": "Rihanna",
           "thumbnail": null,
           "type": "artist"
         }
       ],
-      "release_date": "2004-01-01",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27380f657ac765c30dc9cf96b2f",
+      "release_date": "2008-06-02",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98",
       "type": "album"
     },
     {
@@ -1517,6 +1502,21 @@
       ],
       "release_date": "2004-01-01",
       "thumbnail": "https://i.scdn.co/image/ab67616d0000b27306fec9841583edc9ab861614",
+      "type": "album"
+    },
+    {
+      "name": "Own Worst Enemy",
+      "id": "5Eq8cXCIiVpkQUwE9KajSv",
+      "artists": [
+        {
+          "id": "5jG6uRqinuI83luutMpW6y",
+          "name": "Gavin Adcock",
+          "thumbnail": null,
+          "type": "artist"
+        }
+      ],
+      "release_date": "2025-08-15",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2731e188bfa572838eb17355da1",
       "type": "album"
     }
   ]

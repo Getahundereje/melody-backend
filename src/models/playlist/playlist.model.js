@@ -5,6 +5,7 @@ import AppError from "../../utils/appError.js";
 import { createTrack, deleteTrack, trackExists } from "../track/track.model.js";
 import { userExists } from "../user/user.model.js";
 import PlaylistType from "../../enums/playlistTypes.js";
+import deleteImage from "../../utils/deleteImage.js";
 
 const trackExistsInAPlaylist = catchModelAsyncError(async (trackId) => {
   return await Playlist.exists({ tracks: trackId });
@@ -21,7 +22,12 @@ const playlistExists = catchModelAsyncError(async (playlistId) => {
 });
 
 export const createPlaylist = catchModelAsyncError(async (playlistData) => {
-  const playlist = await Playlist.create(playlistData);
+  const playlist = await Playlist.create({
+    user: playlistData.user,
+    name: playlistData.name,
+    description: playlistData.description,
+    image: playlistData.image,
+  });
 
   return {
     id: playlist.id,
@@ -33,6 +39,31 @@ export const createPlaylist = catchModelAsyncError(async (playlistData) => {
     isPrivate: playlist.isPrivate,
   };
 }, handleMongooseError);
+
+export const updatePlaylist = catchModelAsyncError(
+  async (playlistId, playlistData) => {
+    if (!(await playlistExists(playlistId))) {
+      throw new AppError("Playlist not found", 404);
+    }
+    const updateData = {};
+
+    if (playlistData.name) updateData.name = playlistData.name;
+    if (playlistData.description)
+      updateData.description = playlistData.description;
+    if (playlistData.image) updateData.image = playlistData.image;
+
+    if (updateData.image && updateData.image instanceof File) {
+      const playlist = await Playlist.findById(playlistId);
+      await deleteImage(playlist.image);
+    }
+
+    return await Playlist.findByIdAndUpdate(playlistId, updateData, {
+      new: true,
+      runValidators: true,
+    });
+  },
+  handleMongooseError
+);
 
 export const deletePlaylist = catchModelAsyncError(async (playlistId) => {
   if (!(await playlistExists(playlistId))) {
@@ -79,29 +110,27 @@ export const addTracksToPlaylist = catchModelAsyncError(
   handleMongooseError
 );
 
-export const removeTrackFromPlaylist = catchModelAsyncError(
-  async (playlistId, trackId) => {
+export const removeTracksFromPlaylist = catchModelAsyncError(
+  async (playlistId, tracks) => {
     if (!(await playlistExists(playlistId))) {
       throw new AppError("Playlist not found", 404);
     }
-
-    if (
-      !(await trackExists(trackId)) ||
-      !(await trackExistsInPlaylist(playlistId, trackId))
-    ) {
-      throw new AppError("Track not found", 404);
-    }
+    const trackIds = tracks.map((t) =>
+      typeof t === "object" ? t.id || t._id : t
+    );
 
     await Playlist.findByIdAndUpdate(
       playlistId,
       {
-        $pull: { tracks: trackId },
+        $pull: { tracks: { $in: tracks } },
       },
       { new: true }
     );
 
-    if (!(await trackExistsInAPlaylist(trackId))) {
-      await deleteTrack(trackId);
+    for (const trackId of trackIds) {
+      if (!(await trackExistsInAPlaylist(trackId))) {
+        await deleteTrack(trackId);
+      }
     }
   },
   handleMongooseError

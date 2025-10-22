@@ -1,5 +1,5 @@
 {
-  "issueDate": "Week of October 18, 2025",
+  "issueDate": "Week of October 25, 2025",
   "artists": [
     {
       "id": "06HL4z0CvFAxyc27GXpf02",
@@ -36,15 +36,6 @@
       "type": "artist"
     },
     {
-      "id": "718COspgdWOnwOFpJHRZHS",
-      "name": "Luke Combs",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178584e28452f46640852c2aed4",
-      "genres": [
-        "country"
-      ],
-      "type": "artist"
-    },
-    {
       "id": "0fTSzq9jAh4c36UVb4V7CB",
       "name": "Alex Warren",
       "thumbnail": "https://i.scdn.co/image/ab6761610000f178e5547931c7f652c2ece8b76c",
@@ -59,10 +50,63 @@
       "type": "artist"
     },
     {
+      "id": "718COspgdWOnwOFpJHRZHS",
+      "name": "Luke Combs",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178584e28452f46640852c2aed4",
+      "genres": [
+        "country"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "7n2Ycct7Beij7Dj7meI4X0",
+      "name": "TWICE",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f1783d8820046fd455b38d644864",
+      "genres": [
+        "k-pop"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "22wbnEMDvgVIAGdFeek6ET",
+      "name": "Benson Boone",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178b68234e1a673acc3d873d3e6",
+      "genres": [],
+      "type": "artist"
+    },
+    {
+      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "name": "Kendrick Lamar",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f17839ba6dcd4355c03de0b50918",
+      "genres": [
+        "hip hop",
+        "west coast hip hop"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "name": "Billie Eilish",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f1784a21b4760d2ecb7b0dcdc8da",
+      "genres": [],
+      "type": "artist"
+    },
+    {
       "id": "4kYSro6naA4h99UJvo89HB",
       "name": "Cardi B",
       "thumbnail": "https://i.scdn.co/image/ab6761610000f178a23286f24edd4a7dbdc6311d",
       "genres": [],
+      "type": "artist"
+    },
+    {
+      "id": "08GQAI4eElDnROBrJRGE0X",
+      "name": "Fleetwood Mac",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178c8752dd511cda8c31e9daee8",
+      "genres": [
+        "classic rock",
+        "yacht rock",
+        "soft rock"
+      ],
       "type": "artist"
     },
     {
@@ -78,37 +122,6 @@
       "type": "artist"
     },
     {
-      "id": "22wbnEMDvgVIAGdFeek6ET",
-      "name": "Benson Boone",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178b68234e1a673acc3d873d3e6",
-      "genres": [],
-      "type": "artist"
-    },
-    {
-      "id": "1uNFoZAHBGtllmzznpCI3s",
-      "name": "Justin Bieber",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178af20f7db5288bce9beede034",
-      "genres": [],
-      "type": "artist"
-    },
-    {
-      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
-      "name": "Kendrick Lamar",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f17839ba6dcd4355c03de0b50918",
-      "genres": [
-        "hip hop",
-        "west coast hip hop"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "3y2cIKLjiOlp1Np37WiUdH",
-      "name": "Shaboozey",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f1782361ab73b5a386e2522790e8",
-      "genres": [],
-      "type": "artist"
-    },
-    {
       "id": "3TVXtAsR1Inumwj472S9r4",
       "name": "Drake",
       "thumbnail": "https://i.scdn.co/image/ab6761610000f1784293385d324db8558179afd9",
@@ -118,13 +131,10 @@
       "type": "artist"
     },
     {
-      "id": "1HY2Jd0NmPuamShAr6KMms",
-      "name": "Lady Gaga",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178aadc18cac8d48124357c38e6",
-      "genres": [
-        "art pop",
-        "pop"
-      ],
+      "id": "1uNFoZAHBGtllmzznpCI3s",
+      "name": "Justin Bieber",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178af20f7db5288bce9beede034",
+      "genres": [],
       "type": "artist"
     },
     {
@@ -151,28 +161,36 @@
       "type": "artist"
     },
     {
-      "id": "6qqNVTkY8uBg9cP3Jd7DAH",
-      "name": "Billie Eilish",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f1784a21b4760d2ecb7b0dcdc8da",
-      "genres": [],
-      "type": "artist"
-    },
-    {
-      "id": "4G9NDjRyZFDlJKMRL8hx3S",
-      "name": "sombr",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f17878edaa6468cae153565c2c97",
-      "genres": [],
-      "type": "artist"
-    },
-    {
-      "id": "08GQAI4eElDnROBrJRGE0X",
-      "name": "Fleetwood Mac",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178c8752dd511cda8c31e9daee8",
+      "id": "1HY2Jd0NmPuamShAr6KMms",
+      "name": "Lady Gaga",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178aadc18cac8d48124357c38e6",
       "genres": [
-        "classic rock",
-        "yacht rock",
-        "soft rock"
+        "art pop",
+        "pop"
       ],
+      "type": "artist"
+    },
+    {
+      "id": "7tYKF4w9nC0nq9CsPZTHyP",
+      "name": "SZA",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178fd0a9fb6c252a3ba44079acf",
+      "genres": [
+        "r&b"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "3y2cIKLjiOlp1Np37WiUdH",
+      "name": "Shaboozey",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f1782361ab73b5a386e2522790e8",
+      "genres": [],
+      "type": "artist"
+    },
+    {
+      "id": "0du5cEVh5yTK9QJze8zA0C",
+      "name": "Bruno Mars",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178c36dd9eb55fb0db4911f25dd",
+      "genres": [],
       "type": "artist"
     },
     {
@@ -180,6 +198,15 @@
       "name": "Teddy Swims",
       "thumbnail": "https://i.scdn.co/image/ab6761610000f178f9cf783eb03eb66aa43943ba",
       "genres": [],
+      "type": "artist"
+    },
+    {
+      "id": "3c0gDdb9lhnHGFtP4prQpn",
+      "name": "KATSEYE",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178484e326315e09b3f382a7960",
+      "genres": [
+        "k-pop"
+      ],
       "type": "artist"
     },
     {
@@ -200,30 +227,34 @@
       "type": "artist"
     },
     {
-      "id": "0du5cEVh5yTK9QJze8zA0C",
-      "name": "Bruno Mars",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178c36dd9eb55fb0db4911f25dd",
+      "id": "4G9NDjRyZFDlJKMRL8hx3S",
+      "name": "sombr",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f17878edaa6468cae153565c2c97",
       "genres": [],
       "type": "artist"
     },
     {
-      "id": "7tYKF4w9nC0nq9CsPZTHyP",
-      "name": "SZA",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178fd0a9fb6c252a3ba44079acf",
+      "id": "0oXhGlRUQ8aVTx8eO4MoMT",
+      "name": "Not for Radio",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f17859a30bdb69e6a990c22a5d32",
+      "genres": [],
+      "type": "artist"
+    },
+    {
+      "id": "2dIgFjalVxs4ThymZ67YCE",
+      "name": "Stray Kids",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f1781dbfb8f95157d71faa489c2c",
       "genres": [
-        "r&b"
+        "k-pop",
+        "noise music"
       ],
       "type": "artist"
     },
     {
-      "id": "1bdnGJxkbIIys5Jhk1T74v",
-      "name": "Brandon Lake",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f1788ba23cfe3ff56cc69b68f10e",
-      "genres": [
-        "worship",
-        "christian",
-        "ccm"
-      ],
+      "id": "4V8LLVI7PbaPR0K2TGSxFF",
+      "name": "Tyler, The Creator",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178df2728294ff77dd11eeb18fb",
+      "genres": [],
       "type": "artist"
     },
     {
@@ -246,18 +277,20 @@
       "type": "artist"
     },
     {
-      "id": "0nnBZ8FXWjG9wZgM2cpfeb",
-      "name": "Leon Thomas",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178fa3acb9e964525cbe9e974f5",
+      "id": "7gW0r5CkdEUMm42w9XpyZO",
+      "name": "Laufey",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f17898c2527b85500f68f53084f2",
       "genres": [],
       "type": "artist"
     },
     {
-      "id": "7bXgB6jMjp9ATFy66eO08Z",
-      "name": "Chris Brown",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178a48397e590a1c70e2cda7728",
+      "id": "1bdnGJxkbIIys5Jhk1T74v",
+      "name": "Brandon Lake",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f1788ba23cfe3ff56cc69b68f10e",
       "genres": [
-        "r&b"
+        "worship",
+        "christian",
+        "ccm"
       ],
       "type": "artist"
     },
@@ -279,6 +312,56 @@
       "type": "artist"
     },
     {
+      "id": "3fMbdgg4jU18AjLCKBhRSm",
+      "name": "Michael Jackson",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178997cc9a4aec335d46c9481fd",
+      "genres": [],
+      "type": "artist"
+    },
+    {
+      "id": "2FXC3k01G6Gw61bmprjgqS",
+      "name": "Hozier",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178ad85a585103dfc2f3439119a",
+      "genres": [],
+      "type": "artist"
+    },
+    {
+      "id": "0nnBZ8FXWjG9wZgM2cpfeb",
+      "name": "Leon Thomas",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178fa3acb9e964525cbe9e974f5",
+      "genres": [],
+      "type": "artist"
+    },
+    {
+      "id": "6Ghvu1VvMGScGpOUJBAHNH",
+      "name": "Deftones",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178e3ac5eb948e78d9285d1dbdb",
+      "genres": [
+        "nu metal",
+        "alternative metal",
+        "rap metal",
+        "shoegaze",
+        "rock"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "7bXgB6jMjp9ATFy66eO08Z",
+      "name": "Chris Brown",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178a48397e590a1c70e2cda7728",
+      "genres": [
+        "r&b"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "7kjuLdYbtTkWBToMu2ebZN",
+      "name": "CxM",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178e6457d4027f88c71dc4a1510",
+      "genres": [],
+      "type": "artist"
+    },
+    {
       "id": "6qxpnaukVayrQn6ViNvu9I",
       "name": "BigXthaPlug",
       "thumbnail": "https://i.scdn.co/image/ab6761610000f178bc8b0b51c651063f787330c5",
@@ -288,10 +371,12 @@
       "type": "artist"
     },
     {
-      "id": "7wlFDEWiM5OoIAt8RSli8b",
-      "name": "YoungBoy Never Broke Again",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178776e469c846c205685141317",
-      "genres": [],
+      "id": "336vr2M3Va0FjyvB55lJEd",
+      "name": "D'Angelo",
+      "thumbnail": "https://i.scdn.co/image/d095e7dee69a4430fea48dd53c8ba597415b6ea1",
+      "genres": [
+        "neo soul"
+      ],
       "type": "artist"
     },
     {
@@ -309,6 +394,65 @@
       "type": "artist"
     },
     {
+      "id": "6olE6TJLqED3rqDCT0FyPh",
+      "name": "Nirvana",
+      "thumbnail": "https://i.scdn.co/image/e797ad36d56c3fc8fa06c6fe91263a15bf8391b8",
+      "genres": [
+        "grunge",
+        "rock"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "4Z8W4fKeB5YxbusRsdQVPb",
+      "name": "Radiohead",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f1784104fbd80f1f795728abbd59",
+      "genres": [
+        "art rock",
+        "alternative rock"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "7wlFDEWiM5OoIAt8RSli8b",
+      "name": "YoungBoy Never Broke Again",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178776e469c846c205685141317",
+      "genres": [],
+      "type": "artist"
+    },
+    {
+      "id": "6XyY86QOPPrYVGvF9ch6wz",
+      "name": "Linkin Park",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178527d95dabbe8b8b527e8136f",
+      "genres": [
+        "nu metal",
+        "rap metal",
+        "rock",
+        "alternative metal"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "2ye2Wgw4gimLv2eAKyk1NB",
+      "name": "Metallica",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f17869ca98dd3083f1082d740e44",
+      "genres": [
+        "metal",
+        "thrash metal",
+        "rock",
+        "heavy metal",
+        "hard rock"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "3bO19AOone0ubCsfDXDtYt",
+      "name": "Myles Smith",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f17896327fa3a2c850b608b8efb3",
+      "genres": [],
+      "type": "artist"
+    },
+    {
       "id": "1scVfBymTr3CeZ4imMj1QJ",
       "name": "Forrest Frank",
       "thumbnail": "https://i.scdn.co/image/ab6761610000f178fc23429951b765040e928baf",
@@ -322,16 +466,31 @@
       "type": "artist"
     },
     {
-      "id": "3bO19AOone0ubCsfDXDtYt",
-      "name": "Myles Smith",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f17896327fa3a2c850b608b8efb3",
-      "genres": [],
+      "id": "0X380XXQSNBYuleKzav5UO",
+      "name": "Nine Inch Nails",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178752fca27c5b839ea47d5100d",
+      "genres": [
+        "industrial rock",
+        "industrial",
+        "industrial metal",
+        "alternative metal",
+        "nu metal"
+      ],
       "type": "artist"
     },
     {
-      "id": "2FXC3k01G6Gw61bmprjgqS",
-      "name": "Hozier",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178ad85a585103dfc2f3439119a",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f1786725802588d7dc1aba076ca5",
+      "genres": [
+        "pop"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "4gzpq5DPGxSnKTe4SA8HAU",
+      "name": "Coldplay",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f1781ba8fc5f5c73e7e9313cc6eb",
       "genres": [],
       "type": "artist"
     },
@@ -340,50 +499,6 @@
       "name": "Doja Cat",
       "thumbnail": "https://i.scdn.co/image/ab6761610000f1788a0644455ebfa7d3976f5101",
       "genres": [],
-      "type": "artist"
-    },
-    {
-      "id": "3c0gDdb9lhnHGFtP4prQpn",
-      "name": "KATSEYE",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178484e326315e09b3f382a7960",
-      "genres": [
-        "k-pop"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "5RTLRtXjbXI2lSXc6jxlAz",
-      "name": "Ravyn Lenae",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178138d70fe372dedacdca53b61",
-      "genres": [
-        "alternative r&b",
-        "indie soul"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "3fMbdgg4jU18AjLCKBhRSm",
-      "name": "Michael Jackson",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178997cc9a4aec335d46c9481fd",
-      "genres": [],
-      "type": "artist"
-    },
-    {
-      "id": "7HO5fOXE4gh3lzZn64tX2E",
-      "name": "Mariah the Scientist",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f1786e0ad52899974a169ab69c88",
-      "genres": [
-        "alternative r&b"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "2QMsj4XJ7ne2hojxt6v5eb",
-      "name": "Riley Green",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f1785dc967d7e443e2ef4a7552b6",
-      "genres": [
-        "country"
-      ],
       "type": "artist"
     },
     {
@@ -403,27 +518,9 @@
       "type": "artist"
     },
     {
-      "id": "6BRxQ8cD3eqnrVj6WKDok8",
-      "name": "Ella Langley",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f1788e703296c4ade070eb8488cd",
-      "genres": [
-        "country"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "77kULmXAQ6vWer7IIHdGzI",
-      "name": "Jordan Davis",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f1782a02b713cac51be638001b05",
-      "genres": [
-        "country"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "4gzpq5DPGxSnKTe4SA8HAU",
-      "name": "Coldplay",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f1781ba8fc5f5c73e7e9313cc6eb",
+      "id": "3YQKmKGau1PzlVlkL1iodx",
+      "name": "Twenty One Pilots",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f17861a7ea26d33ded218cd1e59d",
       "genres": [],
       "type": "artist"
     },
@@ -438,54 +535,13 @@
       "type": "artist"
     },
     {
-      "id": "3win9vGIxFfBRag9S63wwf",
-      "name": "Bailey Zimmerman",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f1781c9f6b984cb667d1f4ef2f4b",
+      "id": "5RTLRtXjbXI2lSXc6jxlAz",
+      "name": "Ravyn Lenae",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178138d70fe372dedacdca53b61",
       "genres": [
-        "country"
+        "alternative r&b",
+        "indie soul"
       ],
-      "type": "artist"
-    },
-    {
-      "id": "4V8LLVI7PbaPR0K2TGSxFF",
-      "name": "Tyler, The Creator",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178df2728294ff77dd11eeb18fb",
-      "genres": [],
-      "type": "artist"
-    },
-    {
-      "id": "5Ppie0uPnbnvGBYRwYmlt0",
-      "name": "Megan Moroney",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178cf633541b0d0ea664f1efc53",
-      "genres": [
-        "country"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "1E2AEtxaFaJtH0lO7kgNKw",
-      "name": "Russell Dickerson",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f17863ae1c76b9e1cc1a29d63fa9",
-      "genres": [
-        "country"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "4Z8W4fKeB5YxbusRsdQVPb",
-      "name": "Radiohead",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f1784104fbd80f1f795728abbd59",
-      "genres": [
-        "art rock",
-        "alternative rock"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "4tuJ0bMpJh08umKkEXKUI5",
-      "name": "Gracie Abrams",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178f6d51e6f5342d2d363220920",
-      "genres": [],
       "type": "artist"
     },
     {
@@ -498,53 +554,72 @@
       "type": "artist"
     },
     {
-      "id": "6XyY86QOPPrYVGvF9ch6wz",
-      "name": "Linkin Park",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178527d95dabbe8b8b527e8136f",
-      "genres": [
-        "nu metal",
-        "rap metal",
-        "rock",
-        "alternative metal"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "66CXWjxzNUsdJxJ2JdwvnR",
-      "name": "Ariana Grande",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f1786725802588d7dc1aba076ca5",
-      "genres": [
-        "pop"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "4sCKpwwEsgReZxjtKFm2A0",
-      "name": "Tucker Wetmore",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178dbf7547beca0a0ce3eef2f2b",
+      "id": "2QMsj4XJ7ne2hojxt6v5eb",
+      "name": "Riley Green",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f1785dc967d7e443e2ef4a7552b6",
       "genres": [
         "country"
       ],
       "type": "artist"
     },
     {
-      "id": "6IKlXZEFOvk9itrP1s0knJ",
-      "name": "The Red Clay Strays",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f1781f87bfc1e824789e91573493",
+      "id": "7HO5fOXE4gh3lzZn64tX2E",
+      "name": "Mariah the Scientist",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f1786e0ad52899974a169ab69c88",
+      "genres": [
+        "alternative r&b"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "4LLpKhyESsyAXpc4laK94U",
+      "name": "Mac Miller",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178ed3b89aa602145fde71a163a",
+      "genres": [],
+      "type": "artist"
+    },
+    {
+      "id": "6BRxQ8cD3eqnrVj6WKDok8",
+      "name": "Ella Langley",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f1783b3bcc29f69e2096fd32d185",
       "genres": [
         "country"
       ],
       "type": "artist"
     },
     {
-      "id": "6x2LnllRG5uGarZMsD4iO8",
-      "name": "Thomas Rhett",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178daf1894b7edbfe3376d397d9",
+      "id": "5Ppie0uPnbnvGBYRwYmlt0",
+      "name": "Megan Moroney",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178cf633541b0d0ea664f1efc53",
+      "genres": [
+        "country"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "3win9vGIxFfBRag9S63wwf",
+      "name": "Bailey Zimmerman",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f1781c9f6b984cb667d1f4ef2f4b",
+      "genres": [
+        "country"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "77kULmXAQ6vWer7IIHdGzI",
+      "name": "Jordan Davis",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f1782a02b713cac51be638001b05",
       "genres": [
         "country",
-        "acoustic country",
         "pop country"
       ],
+      "type": "artist"
+    },
+    {
+      "id": "4tuJ0bMpJh08umKkEXKUI5",
+      "name": "Gracie Abrams",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178f6d51e6f5342d2d363220920",
+      "genres": [],
       "type": "artist"
     },
     {
@@ -557,44 +632,47 @@
       "type": "artist"
     },
     {
-      "id": "3FfvYsEGaIb52QPXhg4DcH",
-      "name": "Jason Aldean",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f1788423b317c365846634c163dd",
+      "id": "0k17h0D3J5VfsdmQ1iZtE9",
+      "name": "Pink Floyd",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f17897885ce689d644c91dfba05c",
       "genres": [
-        "country",
-        "acoustic country"
+        "progressive rock",
+        "psychedelic rock",
+        "classic rock",
+        "art rock",
+        "rock"
       ],
       "type": "artist"
     },
     {
-      "id": "04gDigrS5kc9YWfZHwBETP",
-      "name": "Maroon 5",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178f8349dfb619a7f842242de77",
+      "id": "7dGJo4pcD2V6oG8kP0tJRR",
+      "name": "Eminem",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178a00b11c129b27a88fc72f36b",
       "genres": [
-        "pop"
+        "rap",
+        "hip hop"
       ],
       "type": "artist"
     },
     {
-      "id": "340PS4ZcZ4UCBgyrXzEjcp",
-      "name": "Max McNown",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f1783241be31681fdb62b76a1c8b",
-      "genres": [],
-      "type": "artist"
-    },
-    {
-      "id": "2yLzlEFtIS0Q9UkyBZdQA7",
-      "name": "Jessie Murph",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178abb501717aa1717ea4798061",
-      "genres": [],
-      "type": "artist"
-    },
-    {
-      "id": "0C4gtx1iHMfuaQ73GKWvtZ",
-      "name": "Hudson Westbrook",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178a0cae60cdb956f6f3e617d90",
+      "id": "28hJdGN1Awf7u3ifk2lVkg",
+      "name": "Testament",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f1785663001a056558505a84d8e1",
       "genres": [
-        "country"
+        "thrash metal",
+        "metal",
+        "speed metal",
+        "groove metal",
+        "heavy metal"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "4ytkhMSAnrDP8XzRNlw9FS",
+      "name": "Vince Guaraldi Trio",
+      "thumbnail": "https://i.scdn.co/image/c649b5b0ef55206408245e435324ffc0dd376ae9",
+      "genres": [
+        "christmas"
       ],
       "type": "artist"
     },
@@ -606,12 +684,13 @@
       "type": "artist"
     },
     {
-      "id": "2EMAnMvWE2eb56ToJVfCWs",
-      "name": "Bryson Tiller",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178b0ff28b9d4bed74c66901b2b",
+      "id": "3IYUhFvPQItj6xySrBmZkd",
+      "name": "Creedence Clearwater Revival",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178d2e2b04b7ba5d60b72f54506",
       "genres": [
-        "trap soul",
-        "r&b"
+        "classic rock",
+        "southern rock",
+        "country rock"
       ],
       "type": "artist"
     },
@@ -626,49 +705,32 @@
       "type": "artist"
     },
     {
-      "id": "0L8ExT028jH3ddEcZwqJJ5",
-      "name": "Red Hot Chili Peppers",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178c33cc15260b767ddec982ce8",
+      "id": "1ebt9HnXdyYA6KgLXr1n4P",
+      "name": "CORTIS",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f17885fadc54e8acfed96370bfab",
       "genres": [
-        "funk rock",
-        "alternative rock",
-        "rock"
+        "k-pop"
       ],
       "type": "artist"
     },
     {
-      "id": "5jG6uRqinuI83luutMpW6y",
-      "name": "Gavin Adcock",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f17849c98608a7e29b123d5eeaac",
+      "id": "1dfeR4HaWDbWqFHLkxsg1d",
+      "name": "Queen",
+      "thumbnail": "https://i.scdn.co/image/6dd0ffd270903d1884edf9058c49f58b03db893d",
       "genres": [
-        "country",
-        "red dirt"
+        "classic rock",
+        "rock",
+        "glam rock"
       ],
       "type": "artist"
     },
     {
-      "id": "5YGY8feqx7naU7z4HrwZM6",
-      "name": "Miley Cyrus",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178f4cccd14ec026038d713e353",
-      "genres": [],
-      "type": "artist"
-    },
-    {
-      "id": "2sil8z5kiy4r76CRTXxBCA",
-      "name": "The Goo Goo Dolls",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178e7b66b8c4ba729848574df7a",
-      "genres": [],
-      "type": "artist"
-    },
-    {
-      "id": "7yAymwuYh9RcpX84GSNIq2",
-      "name": "Josiah Queen",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178643bfda11e7a4f7796454bea",
+      "id": "3JjvsPeGMbDJqsphe2z8xU",
+      "name": "P1Harmony",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178eed04378a1aa943bb51bf199",
       "genres": [
-        "christian folk",
-        "christian",
-        "worship",
-        "christian pop"
+        "k-pop",
+        "noise music"
       ],
       "type": "artist"
     },
@@ -684,125 +746,152 @@
       "type": "artist"
     },
     {
-      "id": "7gW0r5CkdEUMm42w9XpyZO",
-      "name": "Laufey",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f17898c2527b85500f68f53084f2",
-      "genres": [],
-      "type": "artist"
-    },
-    {
-      "id": "7t0rwkOPGlDPEhaOcVtOt9",
-      "name": "The Cranberries",
-      "thumbnail": "https://i.scdn.co/image/95b4d133c1e6a19efb05e4becf0f9c46e0894845",
-      "genres": [],
-      "type": "artist"
-    },
-    {
-      "id": "5f7VJjfbwm532GiveGC0ZK",
-      "name": "Lil Baby",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178514da623c55dc9d2155705dd",
-      "genres": [],
-      "type": "artist"
-    },
-    {
-      "id": "6olE6TJLqED3rqDCT0FyPh",
-      "name": "Nirvana",
-      "thumbnail": "https://i.scdn.co/image/e797ad36d56c3fc8fa06c6fe91263a15bf8391b8",
+      "id": "0ECwFtbIWEVNwjlrfc6xoL",
+      "name": "Eagles",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f1780767e116a2307495e37cd7fb",
       "genres": [
-        "grunge",
+        "classic rock",
+        "yacht rock",
+        "soft rock"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "3FfvYsEGaIb52QPXhg4DcH",
+      "name": "Jason Aldean",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f1788423b317c365846634c163dd",
+      "genres": [
+        "country",
+        "acoustic country"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "1SIocsqdEefUTE6XKGUiVS",
+      "name": "BABYMONSTER",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178dd103806bef7f753e85587ac",
+      "genres": [
+        "k-pop"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "1E2AEtxaFaJtH0lO7kgNKw",
+      "name": "Russell Dickerson",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f17863ae1c76b9e1cc1a29d63fa9",
+      "genres": [
+        "country",
+        "pop country"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "7Ln80lUS6He07XvHI8qqHH",
+      "name": "Arctic Monkeys",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f1787da39dea0a72f581535fb11f",
+      "genres": [
+        "indie",
+        "garage rock"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "4sCKpwwEsgReZxjtKFm2A0",
+      "name": "Tucker Wetmore",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178dbf7547beca0a0ce3eef2f2b",
+      "genres": [
+        "country"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "7oPftvlwr6VrsViSDV7fJY",
+      "name": "Green Day",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f1786ff0cd5ef2ecf733804984bb",
+      "genres": [
+        "punk",
+        "pop punk"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "13ZEDW6vyBF12HYcZRr4EV",
+      "name": "Tyler Childers",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178f4e08c9a3cea561e8f3332a5",
+      "genres": [
+        "country",
+        "outlaw country",
+        "red dirt",
+        "alt country",
+        "texas country",
+        "bluegrass"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "0L8ExT028jH3ddEcZwqJJ5",
+      "name": "Red Hot Chili Peppers",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178c33cc15260b767ddec982ce8",
+      "genres": [
+        "funk rock",
+        "alternative rock",
         "rock"
       ],
       "type": "artist"
     },
     {
-      "id": "5QNm7E7RU2m64l6Gliu8Oy",
-      "name": "HARDY",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f1783e7e5b8c09a44d49a95bd842",
+      "id": "34c4iQ5tkaZKu6Sv28BTde",
+      "name": "Danzig",
+      "thumbnail": "https://i.scdn.co/image/ab67726900008f74fc6c290e700ffc24fce643c1",
+      "genres": [
+        "horror punk"
+      ],
+      "type": "artist"
+    },
+    {
+      "id": "6x2LnllRG5uGarZMsD4iO8",
+      "name": "Thomas Rhett",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178daf1894b7edbfe3376d397d9",
       "genres": [
         "country",
-        "country rock"
+        "acoustic country",
+        "pop country"
       ],
       "type": "artist"
     },
     {
-      "id": "4GNC7GD6oZMSxPGyXy4MNB",
-      "name": "Lewis Capaldi",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178dc9e707b0d0e591e08d3f549",
+      "id": "0C4gtx1iHMfuaQ73GKWvtZ",
+      "name": "Hudson Westbrook",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178a0cae60cdb956f6f3e617d90",
       "genres": [
-        "soft pop"
+        "country"
       ],
       "type": "artist"
     },
     {
-      "id": "3YCKuqpv9nCsIhJ2v8SMix",
-      "name": "Elevation Worship",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178323706538095e6dc3d6392d1",
-      "genres": [
-        "worship",
-        "christian",
-        "ccm",
-        "gospel",
-        "pop worship"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "3IYUhFvPQItj6xySrBmZkd",
-      "name": "Creedence Clearwater Revival",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178d2e2b04b7ba5d60b72f54506",
-      "genres": [
-        "classic rock",
-        "southern rock",
-        "country rock"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "711MCceyCBcFnzjGY4Q7Un",
-      "name": "AC/DC",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178c4c77549095c86acb4e77b37",
-      "genres": [
-        "rock",
-        "hard rock",
-        "classic rock",
-        "rock and roll"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "6M2wZ9GZgrQXHCFfjv46we",
-      "name": "Dua Lipa",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f1780c68f6c95232e716f0abee8d",
+      "id": "04gDigrS5kc9YWfZHwBETP",
+      "name": "Maroon 5",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178f8349dfb619a7f842242de77",
       "genres": [
         "pop"
       ],
       "type": "artist"
     },
     {
-      "id": "55Aa2cqylxrFIXC767Z865",
-      "name": "Lil Wayne",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178998010cd1075921b5faf16b2",
-      "genres": [
-        "rap",
-        "hip hop"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "7HTLVyjNf0VRxfIgNcfRRH",
-      "name": "Chase Matthew",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f17842f6191eccc66449a47a7b05",
-      "genres": [
-        "country",
-        "country hip hop"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "20wkVLutqVOYrc0kxFs7rA",
-      "name": "Daniel Caesar",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178e4d94f7cbebb17504c25d419",
+      "id": "2RQXRUsr4IW1f3mKyKsy4B",
+      "name": "Noah Kahan",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f1788c52b10e110f62fe45761590",
       "genres": [],
+      "type": "artist"
+    },
+    {
+      "id": "2EMAnMvWE2eb56ToJVfCWs",
+      "name": "Bryson Tiller",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178b0ff28b9d4bed74c66901b2b",
+      "genres": [
+        "trap soul",
+        "r&b"
+      ],
       "type": "artist"
     },
     {
@@ -815,83 +904,12 @@
       "type": "artist"
     },
     {
-      "id": "5d1JhBfyb58upMXCZOdbQu",
-      "name": "Phil Wickham",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f1783c613c49520e672bff7b85f7",
+      "id": "2n2RSaZqBuUUukhbLlpnE6",
+      "name": "Sleep Token",
+      "thumbnail": "https://i.scdn.co/image/ab6761610000f178d00c2ff422829437e6b5f1e0",
       "genres": [
-        "worship",
-        "christian",
-        "ccm"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "7dGJo4pcD2V6oG8kP0tJRR",
-      "name": "Eminem",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178a00b11c129b27a88fc72f36b",
-      "genres": [
-        "rap",
-        "hip hop"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "4iHNK0tOyZPYnBU7nGAgpQ",
-      "name": "Mariah Carey",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178d0a27777aaeb1725add6ace8",
-      "genres": [
-        "christmas"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "2ye2Wgw4gimLv2eAKyk1NB",
-      "name": "Metallica",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f17869ca98dd3083f1082d740e44",
-      "genres": [
-        "metal",
-        "thrash metal",
-        "rock",
-        "heavy metal",
-        "hard rock"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "4MVyzYMgTwdP7Z49wAZHx0",
-      "name": "Lynyrd Skynyrd",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f1783d3ff3d4ebad10d2d2724470",
-      "genres": [
-        "southern rock",
-        "classic rock",
-        "rock"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "2IvkS5MXK0vPGnwyJsrEyV",
-      "name": "Eric Church",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f17831783fb959349f0c82e39bfe",
-      "genres": [
-        "country",
-        "acoustic country"
-      ],
-      "type": "artist"
-    },
-    {
-      "id": "2qoQgPAilErOKCwE2Y8wOG",
-      "name": "GloRilla",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178c33cf3ad025517202d8efbc0",
-      "genres": [],
-      "type": "artist"
-    },
-    {
-      "id": "0rvjqX7ttXeg3mTy8Xscbt",
-      "name": "Journey",
-      "thumbnail": "https://i.scdn.co/image/ab6761610000f178e848dfb35ea4969099662dfd",
-      "genres": [
-        "aor",
-        "classic rock"
+        "progressive metal",
+        "metalcore"
       ],
       "type": "artist"
     }

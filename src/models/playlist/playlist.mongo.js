@@ -3,7 +3,12 @@ import PlaylistType from "../../enums/playlistTypes.js";
 
 const PlaylistSchema = new mongoose.Schema(
   {
-    user: { type: mongoose.Schema.Types.ObjectId, ref: "User", required: true, select: false },
+    user: {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: "User",
+      required: true,
+      select: false,
+    },
     name: { type: String, required: true },
     description: { type: String },
     image: { type: String, default: null },
@@ -12,7 +17,7 @@ const PlaylistSchema = new mongoose.Schema(
       enum: Object.values(PlaylistType),
       default: PlaylistType.CUSTOM,
     },
-    tracks: [{ type: String, ref: "Track", select: false }],
+    tracks: [{ type: String, ref: "Track" }],
     isPrivate: { type: Boolean, default: true },
   },
   { timestamps: true }
@@ -25,13 +30,17 @@ PlaylistSchema.virtual("id").get(function () {
 PlaylistSchema.virtual("thumbnail").get(function () {
   if (!this.image) return null;
 
-  const host = process.env.HOST || "http://localhost:8000"; 
+  const host = process.env.HOST || "http://localhost:8000";
   return `${host}/uploads/${this.image}`;
 });
 
 PlaylistSchema.virtual("type").get(function () {
   return "playlist";
-})
+});
+
+PlaylistSchema.virtual("totalTracks").get(function () {
+  return this.tracks ? this.tracks.length : 0;
+});
 
 PlaylistSchema.set("toJSON", { virtuals: true });
 PlaylistSchema.set("toObject", { virtuals: true });

@@ -32,7 +32,7 @@ TrackSchema.virtual("id").get(function () {
   return this._id;
 });
 
-TrackSchema.virtual("liked").get(async function () {
+TrackSchema.virtual("isFavorite").get(async function () {
   return await isTrackInFavorites(this._id)
 })
 

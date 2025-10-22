@@ -18,8 +18,8 @@
 #db
 mongo-data
 
+#storage
+uploads
+
 #config
 .data
-
-#env
-yt-env

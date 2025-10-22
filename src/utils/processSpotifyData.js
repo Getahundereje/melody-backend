@@ -9,7 +9,7 @@ async function processTrackData(track) {
   return {
     id: track.id,
     name: track.name,
-    liked: await isTrackInFavorites(track.id),
+    isFavorite: await isTrackInFavorites(track.id),
     duration: track.duration_ms ?? null,
     artists: track.artists.map(processArtistData),
     album,
